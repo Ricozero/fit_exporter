@@ -1,6 +1,41 @@
+import { fetchWorkoutDetail, fetchWorkoutStream } from "./api";
+import { downloadFit } from "./download";
+import { encodeWorkoutFit } from "./fit";
+import { normalizeStream } from "./normalize";
+
 const FIT_BUTTON_ID = "fit-exporter-single-button";
 const FIT_LABEL = "导出FIT";
 const GPX_LINK_SELECTOR = 'a[href*="/gpx/"]';
+
+async function exportWorkout(workoutId: number, item: HTMLElement, label: Element): Promise<void> {
+  if (item.dataset.exporting === "true") {
+    return;
+  }
+
+  item.dataset.exporting = "true";
+  label.textContent = "请求中";
+
+  try {
+    const [detail, stream] = await Promise.all([
+      fetchWorkoutDetail(workoutId),
+      fetchWorkoutStream(workoutId),
+    ]);
+
+    label.textContent = "生成中";
+    const points = normalizeStream(stream);
+    const fitBytes = encodeWorkoutFit(detail, points);
+    downloadFit(fitBytes, detail.title, workoutId);
+    label.textContent = FIT_LABEL;
+  } catch (error) {
+    console.error("[fit-exporter] 导出失败", error);
+    label.textContent = "导出失败";
+    window.setTimeout(() => {
+      label.textContent = FIT_LABEL;
+    }, 1000);
+  } finally {
+    delete item.dataset.exporting;
+  }
+}
 
 function mountNextToGpxButton(workoutId: number): void {
   if (document.getElementById(FIT_BUTTON_ID)) {
@@ -36,7 +71,7 @@ function mountNextToGpxButton(workoutId: number): void {
   label.textContent = FIT_LABEL;
   fitItem.addEventListener("click", (event) => {
     event.preventDefault();
-    window.alert(`${workoutId}`);
+    void exportWorkout(workoutId, fitItem, label);
   });
 
   gpxItem.insertAdjacentElement("afterend", fitItem);
