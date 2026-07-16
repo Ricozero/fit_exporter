@@ -21,7 +21,7 @@
 
 | 接口 | 作用 | 当前认识 |
 | --- | --- | --- |
-| `/api/v1/pgworkout/` | 轨迹列表 | 默认返回 20 条，可通过 `offset` 翻页 |
+| `/api/v1/pgworkout/` | 轨迹列表 | 默认返回 20 条，可通过 `offset` 翻页，可通过 `year` 和 `month` 指定年月 |
 | `/api/v1/pgworkout/{id}` | 轨迹详情 | 标题、运动类型、时间、距离、统计信息、设备信息等 |
 | `/api/v1/pgworkout/{id}/stream` | 完整采样流 | 按字段组织的列式数据，各数组用相同下标对应同一采样点 |
 | `/api/v1/pgworkout/{id}/points` | 轨迹点 | `points` 按采样点组织；`encoding_points` 是编码后的坐标串 |
@@ -99,8 +99,6 @@ limit = 20
 - 空数组或字段缺失；
 - 登录失效、无权限和限流；
 - 防止重复点击和重复挂载按钮。
-
-`cvp` 在确认用途前不参与导出，避免把未知的派生数据错误写入 FIT。
 
 ## FIT SDK
 
@@ -227,19 +225,6 @@ npm install @garmin/fitsdk
 npm install -D typescript vite vite-plugin-monkey vitest
 ```
 
-建议脚本：
-
-```json
-{
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "test": "vitest run",
-    "typecheck": "tsc --noEmit"
-  }
-}
-```
-
 日常流程：
 
 1. `npm run dev` 启动 Vite；
@@ -248,20 +233,3 @@ npm install -D typescript vite vite-plugin-monkey vitest
 4. 纯数据转换运行 `npm test`；
 5. 发布前运行 `npm run typecheck` 和 `npm run build`；
 6. 向用户发布 `dist` 中的 `.user.js`。
-
-可以把它类比为：npm 管依赖，Vite 类似构建系统，TypeScript 编译器负责静态检查，Vitest 类似单元测试框架，Tampermonkey 是最终运行宿主。
-
-## 开发顺序
-
-1. 初始化 TypeScript + Vite + `vite-plugin-monkey`；
-2. 在详情页稳定解析 workout id 并显示按钮；
-3. 定义详情和 stream 的 TypeScript 类型；
-4. 将 `stream` 归一化为统一的采样点数组；
-5. 先导出 JSON，验证坐标、时间和字段对应关系；
-6. 接入 FIT 编码并用其他软件验证；
-7. 完成错误处理后发布单轨迹版本；
-8. 最后再设计批量分页和限速队列。
-
-## 数据样例
-
-`data/` 中的 JSON 用于理解接口和编写测试。提交仓库前应确认其中不包含需要隐藏的账号信息、精确家庭位置或其他隐私数据。

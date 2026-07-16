@@ -9,7 +9,7 @@ export default defineConfig({
         name: "行者 FIT 导出器",
         namespace: "fit-exporter",
         description: "从行者网页导出 FIT 文件",
-        match: ["https://*.imxingzhe.com/*"],
+        match: ["https://www.imxingzhe.com/workouts/*"],
         grant: "none",
         "run-at": "document-idle",
       },
