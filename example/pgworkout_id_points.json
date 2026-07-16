@@ -1,0 +1,5997 @@
+{
+  "points": [
+    {
+      "heartrate": 94,
+      "power": 0,
+      "time": 1784077955460,
+      "altitude": 32.94,
+      "speed": 0.31,
+      "cadence": 0
+    },
+    {
+      "heartrate": 94,
+      "power": 0,
+      "time": 1784077961000,
+      "altitude": 32.97,
+      "speed": 1.04,
+      "cadence": 4
+    },
+    {
+      "heartrate": 96,
+      "power": 0,
+      "time": 1784077964000,
+      "altitude": 33.17,
+      "speed": 2.74,
+      "cadence": 46
+    },
+    {
+      "heartrate": 102,
+      "power": 0,
+      "time": 1784077967000,
+      "altitude": 33.06,
+      "speed": 3.12,
+      "cadence": 58
+    },
+    {
+      "heartrate": 106,
+      "power": 0,
+      "time": 1784077970000,
+      "altitude": 32.61,
+      "speed": 3.64,
+      "cadence": 63
+    },
+    {
+      "heartrate": 109,
+      "power": 0,
+      "time": 1784077973000,
+      "altitude": 31.98,
+      "speed": 3.28,
+      "cadence": 29
+    },
+    {
+      "heartrate": 108,
+      "power": 0,
+      "time": 1784077976000,
+      "altitude": 31.42,
+      "speed": 3.52,
+      "cadence": 66
+    },
+    {
+      "heartrate": 101,
+      "power": 0,
+      "time": 1784077979000,
+      "altitude": 31.15,
+      "speed": 3.73,
+      "cadence": 70
+    },
+    {
+      "heartrate": 103,
+      "power": 0,
+      "time": 1784077981000,
+      "altitude": 31.5,
+      "speed": 3.77,
+      "cadence": 70
+    },
+    {
+      "heartrate": 107,
+      "power": 0,
+      "time": 1784077984000,
+      "altitude": 32.02,
+      "speed": 3.41,
+      "cadence": 22
+    },
+    {
+      "heartrate": 108,
+      "power": 0,
+      "time": 1784077986000,
+      "altitude": 31.77,
+      "speed": 3.19,
+      "cadence": 70
+    },
+    {
+      "heartrate": 107,
+      "power": 0,
+      "time": 1784077988000,
+      "altitude": 31.37,
+      "speed": 3.09,
+      "cadence": 72
+    },
+    {
+      "heartrate": 107,
+      "power": 0,
+      "time": 1784077990000,
+      "altitude": 31.32,
+      "speed": 2.97,
+      "cadence": 75
+    },
+    {
+      "heartrate": 108,
+      "power": 0,
+      "time": 1784077993000,
+      "altitude": 31.06,
+      "speed": 3.17,
+      "cadence": 75
+    },
+    {
+      "heartrate": 108,
+      "power": 0,
+      "time": 1784077997000,
+      "altitude": 30.13,
+      "speed": 3.09,
+      "cadence": 68
+    },
+    {
+      "heartrate": 110,
+      "power": 0,
+      "time": 1784078000000,
+      "altitude": 28.61,
+      "speed": 2.96,
+      "cadence": 73
+    },
+    {
+      "heartrate": 110,
+      "power": 0,
+      "time": 1784078002000,
+      "altitude": 27.55,
+      "speed": 3,
+      "cadence": 76
+    },
+    {
+      "heartrate": 107,
+      "power": 0,
+      "time": 1784078005000,
+      "altitude": 25.78,
+      "speed": 3.44,
+      "cadence": 76
+    },
+    {
+      "heartrate": 108,
+      "power": 0,
+      "time": 1784078007000,
+      "altitude": 24.63,
+      "speed": 3.82,
+      "cadence": 77
+    },
+    {
+      "heartrate": 109,
+      "power": 0,
+      "time": 1784078009000,
+      "altitude": 24.08,
+      "speed": 4.12,
+      "cadence": 76
+    },
+    {
+      "heartrate": 113,
+      "power": 0,
+      "time": 1784078012000,
+      "altitude": 23.95,
+      "speed": 4.21,
+      "cadence": 76
+    },
+    {
+      "heartrate": 111,
+      "power": 0,
+      "time": 1784078015000,
+      "altitude": 24.79,
+      "speed": 4.03,
+      "cadence": 70
+    },
+    {
+      "heartrate": 111,
+      "power": 0,
+      "time": 1784078017000,
+      "altitude": 26,
+      "speed": 3.9,
+      "cadence": 70
+    },
+    {
+      "heartrate": 111,
+      "power": 0,
+      "time": 1784078019000,
+      "altitude": 27.27,
+      "speed": 3.77,
+      "cadence": 70
+    },
+    {
+      "heartrate": 111,
+      "power": 0,
+      "time": 1784078021000,
+      "altitude": 28.44,
+      "speed": 3.81,
+      "cadence": 0
+    },
+    {
+      "heartrate": 113,
+      "power": 0,
+      "time": 1784078023000,
+      "altitude": 29.48,
+      "speed": 3.81,
+      "cadence": 8
+    },
+    {
+      "heartrate": 116,
+      "power": 0,
+      "time": 1784078025000,
+      "altitude": 30.56,
+      "speed": 3.91,
+      "cadence": 37
+    },
+    {
+      "heartrate": 115,
+      "power": 0,
+      "time": 1784078027000,
+      "altitude": 31.75,
+      "speed": 4.04,
+      "cadence": 88
+    },
+    {
+      "heartrate": 114,
+      "power": 0,
+      "time": 1784078029000,
+      "altitude": 33,
+      "speed": 4.37,
+      "cadence": 92
+    },
+    {
+      "heartrate": 115,
+      "power": 0,
+      "time": 1784078031000,
+      "altitude": 33.81,
+      "speed": 4.54,
+      "cadence": 79
+    },
+    {
+      "heartrate": 115,
+      "power": 0,
+      "time": 1784078033000,
+      "altitude": 34.06,
+      "speed": 4.81,
+      "cadence": 82
+    },
+    {
+      "heartrate": 117,
+      "power": 0,
+      "time": 1784078035000,
+      "altitude": 34.33,
+      "speed": 5,
+      "cadence": 82
+    },
+    {
+      "heartrate": 121,
+      "power": 0,
+      "time": 1784078037000,
+      "altitude": 34.27,
+      "speed": 5.2,
+      "cadence": 85
+    },
+    {
+      "heartrate": 121,
+      "power": 0,
+      "time": 1784078039000,
+      "altitude": 34.24,
+      "speed": 5.22,
+      "cadence": 80
+    },
+    {
+      "heartrate": 119,
+      "power": 0,
+      "time": 1784078041000,
+      "altitude": 34.07,
+      "speed": 5.12,
+      "cadence": 80
+    },
+    {
+      "heartrate": 117,
+      "power": 0,
+      "time": 1784078043000,
+      "altitude": 33.86,
+      "speed": 4.93,
+      "cadence": 0
+    },
+    {
+      "heartrate": 84,
+      "power": 0,
+      "time": 1784078069000,
+      "altitude": 34.01,
+      "speed": 0.84,
+      "cadence": 0
+    },
+    {
+      "heartrate": 74,
+      "power": 0,
+      "time": 1784078093000,
+      "altitude": 36.08,
+      "speed": 0.81,
+      "cadence": 56
+    },
+    {
+      "heartrate": 76,
+      "power": 0,
+      "time": 1784078096000,
+      "altitude": 36.69,
+      "speed": 1.87,
+      "cadence": 68
+    },
+    {
+      "heartrate": 78,
+      "power": 0,
+      "time": 1784078098000,
+      "altitude": 36.48,
+      "speed": 2.69,
+      "cadence": 74
+    },
+    {
+      "heartrate": 79,
+      "power": 0,
+      "time": 1784078100000,
+      "altitude": 36,
+      "speed": 3.48,
+      "cadence": 78
+    },
+    {
+      "heartrate": 88,
+      "power": 0,
+      "time": 1784078102000,
+      "altitude": 35.25,
+      "speed": 4.08,
+      "cadence": 79
+    },
+    {
+      "heartrate": 91,
+      "power": 0,
+      "time": 1784078104000,
+      "altitude": 34.15,
+      "speed": 4.42,
+      "cadence": 79
+    },
+    {
+      "heartrate": 92,
+      "power": 0,
+      "time": 1784078106000,
+      "altitude": 32.73,
+      "speed": 4.63,
+      "cadence": 80
+    },
+    {
+      "heartrate": 98,
+      "power": 0,
+      "time": 1784078108000,
+      "altitude": 31.13,
+      "speed": 4.8,
+      "cadence": 81
+    },
+    {
+      "heartrate": 104,
+      "power": 0,
+      "time": 1784078110000,
+      "altitude": 29.71,
+      "speed": 4.87,
+      "cadence": 82
+    },
+    {
+      "heartrate": 112,
+      "power": 0,
+      "time": 1784078112000,
+      "altitude": 28.22,
+      "speed": 4.95,
+      "cadence": 84
+    },
+    {
+      "heartrate": 117,
+      "power": 0,
+      "time": 1784078114000,
+      "altitude": 27.49,
+      "speed": 5.07,
+      "cadence": 86
+    },
+    {
+      "heartrate": 123,
+      "power": 0,
+      "time": 1784078116000,
+      "altitude": 27.49,
+      "speed": 5.22,
+      "cadence": 87
+    },
+    {
+      "heartrate": 129,
+      "power": 0,
+      "time": 1784078118000,
+      "altitude": 27.53,
+      "speed": 5.3,
+      "cadence": 89
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784078120000,
+      "altitude": 27.83,
+      "speed": 5.42,
+      "cadence": 90
+    },
+    {
+      "heartrate": 135,
+      "power": 0,
+      "time": 1784078122000,
+      "altitude": 28.27,
+      "speed": 5.47,
+      "cadence": 89
+    },
+    {
+      "heartrate": 137,
+      "power": 0,
+      "time": 1784078124000,
+      "altitude": 28.57,
+      "speed": 5.48,
+      "cadence": 90
+    },
+    {
+      "heartrate": 137,
+      "power": 0,
+      "time": 1784078126000,
+      "altitude": 29.11,
+      "speed": 5.51,
+      "cadence": 91
+    },
+    {
+      "heartrate": 137,
+      "power": 0,
+      "time": 1784078128000,
+      "altitude": 29.91,
+      "speed": 5.56,
+      "cadence": 86
+    },
+    {
+      "heartrate": 137,
+      "power": 0,
+      "time": 1784078130000,
+      "altitude": 30.41,
+      "speed": 5.54,
+      "cadence": 86
+    },
+    {
+      "heartrate": 137,
+      "power": 0,
+      "time": 1784078132000,
+      "altitude": 30.83,
+      "speed": 5.46,
+      "cadence": 0
+    },
+    {
+      "heartrate": 137,
+      "power": 0,
+      "time": 1784078134000,
+      "altitude": 31.05,
+      "speed": 5.29,
+      "cadence": 10
+    },
+    {
+      "heartrate": 135,
+      "power": 0,
+      "time": 1784078136000,
+      "altitude": 31.27,
+      "speed": 5.06,
+      "cadence": 59
+    },
+    {
+      "heartrate": 135,
+      "power": 0,
+      "time": 1784078138000,
+      "altitude": 31.29,
+      "speed": 4.77,
+      "cadence": 59
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784078141000,
+      "altitude": 30.69,
+      "speed": 4.07,
+      "cadence": 0
+    },
+    {
+      "heartrate": 132,
+      "power": 0,
+      "time": 1784078145000,
+      "altitude": 29.53,
+      "speed": 3.02,
+      "cadence": 41
+    },
+    {
+      "heartrate": 127,
+      "power": 0,
+      "time": 1784078148000,
+      "altitude": 28.85,
+      "speed": 2.91,
+      "cadence": 71
+    },
+    {
+      "heartrate": 122,
+      "power": 0,
+      "time": 1784078150000,
+      "altitude": 28.38,
+      "speed": 3.16,
+      "cadence": 87
+    },
+    {
+      "heartrate": 119,
+      "power": 0,
+      "time": 1784078152000,
+      "altitude": 28.31,
+      "speed": 3.91,
+      "cadence": 86
+    },
+    {
+      "heartrate": 119,
+      "power": 0,
+      "time": 1784078154000,
+      "altitude": 28.66,
+      "speed": 4.52,
+      "cadence": 46
+    },
+    {
+      "heartrate": 120,
+      "power": 0,
+      "time": 1784078156000,
+      "altitude": 29.25,
+      "speed": 4.79,
+      "cadence": 46
+    },
+    {
+      "heartrate": 122,
+      "power": 0,
+      "time": 1784078159000,
+      "altitude": 30.09,
+      "speed": 4.67,
+      "cadence": 77
+    },
+    {
+      "heartrate": 121,
+      "power": 0,
+      "time": 1784078161000,
+      "altitude": 30.41,
+      "speed": 4.58,
+      "cadence": 88
+    },
+    {
+      "heartrate": 122,
+      "power": 0,
+      "time": 1784078163000,
+      "altitude": 30.31,
+      "speed": 4.56,
+      "cadence": 84
+    },
+    {
+      "heartrate": 123,
+      "power": 0,
+      "time": 1784078165000,
+      "altitude": 29.98,
+      "speed": 4.62,
+      "cadence": 85
+    },
+    {
+      "heartrate": 123,
+      "power": 0,
+      "time": 1784078167000,
+      "altitude": 29.67,
+      "speed": 4.89,
+      "cadence": 85
+    },
+    {
+      "heartrate": 123,
+      "power": 0,
+      "time": 1784078169000,
+      "altitude": 29.21,
+      "speed": 5.16,
+      "cadence": 85
+    },
+    {
+      "heartrate": 125,
+      "power": 0,
+      "time": 1784078171000,
+      "altitude": 28.64,
+      "speed": 5.23,
+      "cadence": 85
+    },
+    {
+      "heartrate": 126,
+      "power": 0,
+      "time": 1784078173000,
+      "altitude": 28.12,
+      "speed": 5.22,
+      "cadence": 85
+    },
+    {
+      "heartrate": 127,
+      "power": 0,
+      "time": 1784078175000,
+      "altitude": 27.61,
+      "speed": 5.28,
+      "cadence": 85
+    },
+    {
+      "heartrate": 129,
+      "power": 0,
+      "time": 1784078177000,
+      "altitude": 27.23,
+      "speed": 5.27,
+      "cadence": 85
+    },
+    {
+      "heartrate": 130,
+      "power": 0,
+      "time": 1784078179000,
+      "altitude": 26.98,
+      "speed": 5.22,
+      "cadence": 84
+    },
+    {
+      "heartrate": 131,
+      "power": 0,
+      "time": 1784078181000,
+      "altitude": 26.77,
+      "speed": 5.24,
+      "cadence": 83
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784078183000,
+      "altitude": 26.46,
+      "speed": 5.26,
+      "cadence": 84
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784078185000,
+      "altitude": 26.28,
+      "speed": 5.24,
+      "cadence": 86
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784078187000,
+      "altitude": 26.1,
+      "speed": 5.25,
+      "cadence": 86
+    },
+    {
+      "heartrate": 135,
+      "power": 0,
+      "time": 1784078189000,
+      "altitude": 26.12,
+      "speed": 5.23,
+      "cadence": 82
+    },
+    {
+      "heartrate": 136,
+      "power": 0,
+      "time": 1784078191000,
+      "altitude": 25.99,
+      "speed": 5.22,
+      "cadence": 22
+    },
+    {
+      "heartrate": 136,
+      "power": 0,
+      "time": 1784078193000,
+      "altitude": 26.07,
+      "speed": 5.18,
+      "cadence": 81
+    },
+    {
+      "heartrate": 136,
+      "power": 0,
+      "time": 1784078195000,
+      "altitude": 26.34,
+      "speed": 5.14,
+      "cadence": 83
+    },
+    {
+      "heartrate": 135,
+      "power": 0,
+      "time": 1784078197000,
+      "altitude": 27.03,
+      "speed": 5.13,
+      "cadence": 83
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784078199000,
+      "altitude": 27.94,
+      "speed": 5.12,
+      "cadence": 82
+    },
+    {
+      "heartrate": 130,
+      "power": 0,
+      "time": 1784078201000,
+      "altitude": 28.77,
+      "speed": 5.13,
+      "cadence": 82
+    },
+    {
+      "heartrate": 129,
+      "power": 0,
+      "time": 1784078203000,
+      "altitude": 29.61,
+      "speed": 5.2,
+      "cadence": 84
+    },
+    {
+      "heartrate": 130,
+      "power": 0,
+      "time": 1784078205000,
+      "altitude": 30.32,
+      "speed": 5.19,
+      "cadence": 76
+    },
+    {
+      "heartrate": 131,
+      "power": 0,
+      "time": 1784078207000,
+      "altitude": 30.76,
+      "speed": 5.12,
+      "cadence": 80
+    },
+    {
+      "heartrate": 132,
+      "power": 0,
+      "time": 1784078209000,
+      "altitude": 31.02,
+      "speed": 5.19,
+      "cadence": 85
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784078211000,
+      "altitude": 31.18,
+      "speed": 5.24,
+      "cadence": 86
+    },
+    {
+      "heartrate": 135,
+      "power": 0,
+      "time": 1784078213000,
+      "altitude": 31.3,
+      "speed": 5.24,
+      "cadence": 84
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784078215000,
+      "altitude": 31.74,
+      "speed": 5.22,
+      "cadence": 79
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784078217000,
+      "altitude": 32.42,
+      "speed": 5.15,
+      "cadence": 79
+    },
+    {
+      "heartrate": 133,
+      "power": 0,
+      "time": 1784078220000,
+      "altitude": 33.34,
+      "speed": 4.59,
+      "cadence": 0
+    },
+    {
+      "heartrate": 133,
+      "power": 0,
+      "time": 1784078223000,
+      "altitude": 33.84,
+      "speed": 4.01,
+      "cadence": 63
+    },
+    {
+      "heartrate": 129,
+      "power": 0,
+      "time": 1784078225000,
+      "altitude": 33.9,
+      "speed": 3.88,
+      "cadence": 73
+    },
+    {
+      "heartrate": 126,
+      "power": 0,
+      "time": 1784078227000,
+      "altitude": 33.92,
+      "speed": 3.84,
+      "cadence": 74
+    },
+    {
+      "heartrate": 122,
+      "power": 0,
+      "time": 1784078229000,
+      "altitude": 33.56,
+      "speed": 3.98,
+      "cadence": 19
+    },
+    {
+      "heartrate": 119,
+      "power": 0,
+      "time": 1784078231000,
+      "altitude": 32.87,
+      "speed": 4.26,
+      "cadence": 72
+    },
+    {
+      "heartrate": 119,
+      "power": 0,
+      "time": 1784078233000,
+      "altitude": 32.09,
+      "speed": 4.49,
+      "cadence": 69
+    },
+    {
+      "heartrate": 120,
+      "power": 0,
+      "time": 1784078236000,
+      "altitude": 30.94,
+      "speed": 4.3,
+      "cadence": 0
+    },
+    {
+      "heartrate": 119,
+      "power": 0,
+      "time": 1784078238000,
+      "altitude": 30.34,
+      "speed": 4.23,
+      "cadence": 69
+    },
+    {
+      "heartrate": 119,
+      "power": 0,
+      "time": 1784078240000,
+      "altitude": 29.74,
+      "speed": 4.16,
+      "cadence": 79
+    },
+    {
+      "heartrate": 119,
+      "power": 0,
+      "time": 1784078242000,
+      "altitude": 29.24,
+      "speed": 4.24,
+      "cadence": 85
+    },
+    {
+      "heartrate": 120,
+      "power": 0,
+      "time": 1784078244000,
+      "altitude": 28.76,
+      "speed": 4.42,
+      "cadence": 60
+    },
+    {
+      "heartrate": 120,
+      "power": 0,
+      "time": 1784078246000,
+      "altitude": 28.46,
+      "speed": 4.77,
+      "cadence": 85
+    },
+    {
+      "heartrate": 121,
+      "power": 0,
+      "time": 1784078248000,
+      "altitude": 28.47,
+      "speed": 5.03,
+      "cadence": 86
+    },
+    {
+      "heartrate": 122,
+      "power": 0,
+      "time": 1784078250000,
+      "altitude": 28.86,
+      "speed": 5.29,
+      "cadence": 90
+    },
+    {
+      "heartrate": 123,
+      "power": 0,
+      "time": 1784078252000,
+      "altitude": 29.29,
+      "speed": 5.42,
+      "cadence": 81
+    },
+    {
+      "heartrate": 122,
+      "power": 0,
+      "time": 1784078254000,
+      "altitude": 29.67,
+      "speed": 5.5,
+      "cadence": 79
+    },
+    {
+      "heartrate": 121,
+      "power": 0,
+      "time": 1784078256000,
+      "altitude": 30.07,
+      "speed": 5.58,
+      "cadence": 80
+    },
+    {
+      "heartrate": 121,
+      "power": 0,
+      "time": 1784078258000,
+      "altitude": 30.54,
+      "speed": 5.63,
+      "cadence": 81
+    },
+    {
+      "heartrate": 122,
+      "power": 0,
+      "time": 1784078260000,
+      "altitude": 31.03,
+      "speed": 5.66,
+      "cadence": 81
+    },
+    {
+      "heartrate": 122,
+      "power": 0,
+      "time": 1784078262000,
+      "altitude": 31.33,
+      "speed": 5.68,
+      "cadence": 84
+    },
+    {
+      "heartrate": 123,
+      "power": 0,
+      "time": 1784078264000,
+      "altitude": 31.4,
+      "speed": 5.7,
+      "cadence": 83
+    },
+    {
+      "heartrate": 123,
+      "power": 0,
+      "time": 1784078266000,
+      "altitude": 31.58,
+      "speed": 5.68,
+      "cadence": 82
+    },
+    {
+      "heartrate": 125,
+      "power": 0,
+      "time": 1784078268000,
+      "altitude": 31.86,
+      "speed": 5.66,
+      "cadence": 82
+    },
+    {
+      "heartrate": 126,
+      "power": 0,
+      "time": 1784078270000,
+      "altitude": 32.3,
+      "speed": 5.75,
+      "cadence": 81
+    },
+    {
+      "heartrate": 128,
+      "power": 0,
+      "time": 1784078272000,
+      "altitude": 32.32,
+      "speed": 5.74,
+      "cadence": 81
+    },
+    {
+      "heartrate": 129,
+      "power": 0,
+      "time": 1784078274000,
+      "altitude": 32.57,
+      "speed": 5.72,
+      "cadence": 81
+    },
+    {
+      "heartrate": 130,
+      "power": 0,
+      "time": 1784078276000,
+      "altitude": 32.8,
+      "speed": 5.7,
+      "cadence": 81
+    },
+    {
+      "heartrate": 130,
+      "power": 0,
+      "time": 1784078278000,
+      "altitude": 33.24,
+      "speed": 5.77,
+      "cadence": 82
+    },
+    {
+      "heartrate": 130,
+      "power": 0,
+      "time": 1784078280000,
+      "altitude": 33.86,
+      "speed": 5.69,
+      "cadence": 83
+    },
+    {
+      "heartrate": 131,
+      "power": 0,
+      "time": 1784078282000,
+      "altitude": 34.06,
+      "speed": 5.7,
+      "cadence": 82
+    },
+    {
+      "heartrate": 132,
+      "power": 0,
+      "time": 1784078284000,
+      "altitude": 34.24,
+      "speed": 5.72,
+      "cadence": 83
+    },
+    {
+      "heartrate": 133,
+      "power": 0,
+      "time": 1784078286000,
+      "altitude": 34.36,
+      "speed": 5.77,
+      "cadence": 84
+    },
+    {
+      "heartrate": 132,
+      "power": 0,
+      "time": 1784078288000,
+      "altitude": 34.36,
+      "speed": 5.75,
+      "cadence": 84
+    },
+    {
+      "heartrate": 131,
+      "power": 0,
+      "time": 1784078290000,
+      "altitude": 34.32,
+      "speed": 5.79,
+      "cadence": 83
+    },
+    {
+      "heartrate": 130,
+      "power": 0,
+      "time": 1784078292000,
+      "altitude": 34.41,
+      "speed": 5.72,
+      "cadence": 77
+    },
+    {
+      "heartrate": 130,
+      "power": 0,
+      "time": 1784078294000,
+      "altitude": 34.62,
+      "speed": 5.62,
+      "cadence": 77
+    },
+    {
+      "heartrate": 131,
+      "power": 0,
+      "time": 1784078296000,
+      "altitude": 34.88,
+      "speed": 5.38,
+      "cadence": 0
+    },
+    {
+      "heartrate": 128,
+      "power": 0,
+      "time": 1784078299000,
+      "altitude": 34.97,
+      "speed": 4.8,
+      "cadence": 0
+    },
+    {
+      "heartrate": 127,
+      "power": 0,
+      "time": 1784078302000,
+      "altitude": 34.9,
+      "speed": 3.95,
+      "cadence": 0
+    },
+    {
+      "heartrate": 121,
+      "power": 0,
+      "time": 1784078307000,
+      "altitude": 33.69,
+      "speed": 2.52,
+      "cadence": 0
+    },
+    {
+      "heartrate": 110,
+      "power": 0,
+      "time": 1784078316000,
+      "altitude": 31.49,
+      "speed": 0.65,
+      "cadence": 0
+    },
+    {
+      "heartrate": 83,
+      "power": 0,
+      "time": 1784078345000,
+      "altitude": 31.73,
+      "speed": 1.07,
+      "cadence": 50
+    },
+    {
+      "heartrate": 87,
+      "power": 0,
+      "time": 1784078348000,
+      "altitude": 33.19,
+      "speed": 2.37,
+      "cadence": 74
+    },
+    {
+      "heartrate": 88,
+      "power": 0,
+      "time": 1784078350000,
+      "altitude": 34.18,
+      "speed": 3.35,
+      "cadence": 81
+    },
+    {
+      "heartrate": 89,
+      "power": 0,
+      "time": 1784078352000,
+      "altitude": 34.89,
+      "speed": 4.27,
+      "cadence": 86
+    },
+    {
+      "heartrate": 94,
+      "power": 0,
+      "time": 1784078354000,
+      "altitude": 35.39,
+      "speed": 4.87,
+      "cadence": 88
+    },
+    {
+      "heartrate": 101,
+      "power": 0,
+      "time": 1784078356000,
+      "altitude": 35.4,
+      "speed": 5.18,
+      "cadence": 88
+    },
+    {
+      "heartrate": 111,
+      "power": 0,
+      "time": 1784078358000,
+      "altitude": 35.26,
+      "speed": 5.39,
+      "cadence": 90
+    },
+    {
+      "heartrate": 115,
+      "power": 0,
+      "time": 1784078360000,
+      "altitude": 35.17,
+      "speed": 5.45,
+      "cadence": 85
+    },
+    {
+      "heartrate": 121,
+      "power": 0,
+      "time": 1784078362000,
+      "altitude": 35.17,
+      "speed": 5.38,
+      "cadence": 85
+    },
+    {
+      "heartrate": 129,
+      "power": 0,
+      "time": 1784078364000,
+      "altitude": 35.33,
+      "speed": 5.25,
+      "cadence": 0
+    },
+    {
+      "heartrate": 129,
+      "power": 0,
+      "time": 1784078366000,
+      "altitude": 35.48,
+      "speed": 5.13,
+      "cadence": 18
+    },
+    {
+      "heartrate": 131,
+      "power": 0,
+      "time": 1784078368000,
+      "altitude": 35.96,
+      "speed": 5.09,
+      "cadence": 87
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784078371000,
+      "altitude": 36.53,
+      "speed": 5.13,
+      "cadence": 88
+    },
+    {
+      "heartrate": 135,
+      "power": 0,
+      "time": 1784078373000,
+      "altitude": 37.02,
+      "speed": 5.22,
+      "cadence": 85
+    },
+    {
+      "heartrate": 135,
+      "power": 0,
+      "time": 1784078375000,
+      "altitude": 37.57,
+      "speed": 5.26,
+      "cadence": 0
+    },
+    {
+      "heartrate": 135,
+      "power": 0,
+      "time": 1784078378000,
+      "altitude": 37.82,
+      "speed": 5.12,
+      "cadence": 0
+    },
+    {
+      "heartrate": 132,
+      "power": 0,
+      "time": 1784078381000,
+      "altitude": 37.7,
+      "speed": 4.71,
+      "cadence": 0
+    },
+    {
+      "heartrate": 131,
+      "power": 0,
+      "time": 1784078384000,
+      "altitude": 37.3,
+      "speed": 4.2,
+      "cadence": 0
+    },
+    {
+      "heartrate": 130,
+      "power": 0,
+      "time": 1784078387000,
+      "altitude": 36.81,
+      "speed": 3.66,
+      "cadence": 0
+    },
+    {
+      "heartrate": 127,
+      "power": 0,
+      "time": 1784078390000,
+      "altitude": 36.06,
+      "speed": 3.12,
+      "cadence": 0
+    },
+    {
+      "heartrate": 127,
+      "power": 0,
+      "time": 1784078396000,
+      "altitude": 34.95,
+      "speed": 1.71,
+      "cadence": 3
+    },
+    {
+      "heartrate": 107,
+      "power": 0,
+      "time": 1784078409000,
+      "altitude": 34.21,
+      "speed": 0.59,
+      "cadence": 29
+    },
+    {
+      "heartrate": 106,
+      "power": 0,
+      "time": 1784078411000,
+      "altitude": 34.27,
+      "speed": 4.81,
+      "cadence": 68
+    },
+    {
+      "heartrate": 106,
+      "power": 0,
+      "time": 1784078413000,
+      "altitude": 34.68,
+      "speed": 5.77,
+      "cadence": 92
+    },
+    {
+      "heartrate": 112,
+      "power": 0,
+      "time": 1784078415000,
+      "altitude": 35.41,
+      "speed": 6.17,
+      "cadence": 96
+    },
+    {
+      "heartrate": 120,
+      "power": 0,
+      "time": 1784078417000,
+      "altitude": 35.74,
+      "speed": 5.71,
+      "cadence": 85
+    },
+    {
+      "heartrate": 125,
+      "power": 0,
+      "time": 1784078419000,
+      "altitude": 36,
+      "speed": 6.08,
+      "cadence": 89
+    },
+    {
+      "heartrate": 129,
+      "power": 0,
+      "time": 1784078422000,
+      "altitude": 37.1,
+      "speed": 6.11,
+      "cadence": 93
+    },
+    {
+      "heartrate": 136,
+      "power": 0,
+      "time": 1784078425000,
+      "altitude": 38.45,
+      "speed": 6.37,
+      "cadence": 79
+    },
+    {
+      "heartrate": 143,
+      "power": 0,
+      "time": 1784078427000,
+      "altitude": 38.47,
+      "speed": 7.19,
+      "cadence": 91
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078429000,
+      "altitude": 38.29,
+      "speed": 7.21,
+      "cadence": 93
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078431000,
+      "altitude": 37.74,
+      "speed": 7.11,
+      "cadence": 93
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078433000,
+      "altitude": 37.16,
+      "speed": 7.26,
+      "cadence": 92
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078436000,
+      "altitude": 36.84,
+      "speed": 6.99,
+      "cadence": 91
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078438000,
+      "altitude": 36.44,
+      "speed": 6.85,
+      "cadence": 91
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078440000,
+      "altitude": 36.09,
+      "speed": 7.16,
+      "cadence": 91
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078442000,
+      "altitude": 35.16,
+      "speed": 6.89,
+      "cadence": 90
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078444000,
+      "altitude": 34.18,
+      "speed": 7.06,
+      "cadence": 62
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078446000,
+      "altitude": 33.36,
+      "speed": 6.61,
+      "cadence": 90
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078448000,
+      "altitude": 32.57,
+      "speed": 7.05,
+      "cadence": 90
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078450000,
+      "altitude": 32.51,
+      "speed": 7.09,
+      "cadence": 90
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078452000,
+      "altitude": 32.6,
+      "speed": 7.07,
+      "cadence": 90
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078454000,
+      "altitude": 32.82,
+      "speed": 7.12,
+      "cadence": 90
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784078456000,
+      "altitude": 33.11,
+      "speed": 6.94,
+      "cadence": 89
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078458000,
+      "altitude": 33.36,
+      "speed": 6.69,
+      "cadence": 89
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078460000,
+      "altitude": 33.38,
+      "speed": 6.85,
+      "cadence": 88
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784078462000,
+      "altitude": 33.32,
+      "speed": 6.75,
+      "cadence": 89
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784078464000,
+      "altitude": 33.35,
+      "speed": 6.76,
+      "cadence": 88
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784078466000,
+      "altitude": 33.32,
+      "speed": 6.63,
+      "cadence": 87
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078468000,
+      "altitude": 33.11,
+      "speed": 6.16,
+      "cadence": 86
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784078470000,
+      "altitude": 33.34,
+      "speed": 6.8,
+      "cadence": 85
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784078472000,
+      "altitude": 33.67,
+      "speed": 6.81,
+      "cadence": 86
+    },
+    {
+      "heartrate": 146,
+      "power": 0,
+      "time": 1784078474000,
+      "altitude": 33.91,
+      "speed": 6.41,
+      "cadence": 86
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784078476000,
+      "altitude": 34.17,
+      "speed": 6.44,
+      "cadence": 85
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784078478000,
+      "altitude": 34.18,
+      "speed": 6.57,
+      "cadence": 85
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078480000,
+      "altitude": 34.31,
+      "speed": 6.59,
+      "cadence": 85
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078483000,
+      "altitude": 34.26,
+      "speed": 6.81,
+      "cadence": 86
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078486000,
+      "altitude": 33.19,
+      "speed": 6.89,
+      "cadence": 88
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078488000,
+      "altitude": 32.14,
+      "speed": 7.05,
+      "cadence": 89
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078490000,
+      "altitude": 31.75,
+      "speed": 6.88,
+      "cadence": 89
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078492000,
+      "altitude": 31.08,
+      "speed": 6.78,
+      "cadence": 88
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078494000,
+      "altitude": 30.61,
+      "speed": 6.92,
+      "cadence": 88
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078496000,
+      "altitude": 30.58,
+      "speed": 7.1,
+      "cadence": 89
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078498000,
+      "altitude": 30.91,
+      "speed": 7.07,
+      "cadence": 89
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078501000,
+      "altitude": 31.47,
+      "speed": 6.92,
+      "cadence": 88
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078503000,
+      "altitude": 31.67,
+      "speed": 6.75,
+      "cadence": 88
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078505000,
+      "altitude": 32.11,
+      "speed": 7.08,
+      "cadence": 88
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078507000,
+      "altitude": 32.47,
+      "speed": 6.28,
+      "cadence": 88
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078510000,
+      "altitude": 33.1,
+      "speed": 6.82,
+      "cadence": 86
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078512000,
+      "altitude": 33.5,
+      "speed": 6.61,
+      "cadence": 86
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078514000,
+      "altitude": 33.8,
+      "speed": 6.84,
+      "cadence": 85
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078516000,
+      "altitude": 34.14,
+      "speed": 6.54,
+      "cadence": 85
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078518000,
+      "altitude": 34.46,
+      "speed": 6.29,
+      "cadence": 82
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078520000,
+      "altitude": 34.82,
+      "speed": 6.55,
+      "cadence": 83
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078522000,
+      "altitude": 35.38,
+      "speed": 6.43,
+      "cadence": 85
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078524000,
+      "altitude": 35.8,
+      "speed": 6.38,
+      "cadence": 85
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078526000,
+      "altitude": 36.22,
+      "speed": 6.69,
+      "cadence": 85
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078528000,
+      "altitude": 36.38,
+      "speed": 6.26,
+      "cadence": 84
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078530000,
+      "altitude": 36.04,
+      "speed": 6.37,
+      "cadence": 84
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784078532000,
+      "altitude": 35.22,
+      "speed": 6.41,
+      "cadence": 84
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784078534000,
+      "altitude": 34.48,
+      "speed": 6.65,
+      "cadence": 88
+    },
+    {
+      "heartrate": 146,
+      "power": 0,
+      "time": 1784078536000,
+      "altitude": 34.08,
+      "speed": 6.83,
+      "cadence": 92
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078538000,
+      "altitude": 33.67,
+      "speed": 7.05,
+      "cadence": 91
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078540000,
+      "altitude": 33.36,
+      "speed": 7.11,
+      "cadence": 92
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078542000,
+      "altitude": 32.6,
+      "speed": 7.29,
+      "cadence": 92
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784078544000,
+      "altitude": 31.63,
+      "speed": 7.39,
+      "cadence": 92
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078546000,
+      "altitude": 30.75,
+      "speed": 7.09,
+      "cadence": 92
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078548000,
+      "altitude": 30.07,
+      "speed": 7.16,
+      "cadence": 91
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078550000,
+      "altitude": 30.24,
+      "speed": 7.52,
+      "cadence": 91
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078552000,
+      "altitude": 30.82,
+      "speed": 7.26,
+      "cadence": 92
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078554000,
+      "altitude": 31.64,
+      "speed": 7.13,
+      "cadence": 92
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078556000,
+      "altitude": 32.55,
+      "speed": 7.31,
+      "cadence": 91
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078558000,
+      "altitude": 33.71,
+      "speed": 7.21,
+      "cadence": 90
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078560000,
+      "altitude": 34.63,
+      "speed": 7.01,
+      "cadence": 90
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078562000,
+      "altitude": 35.04,
+      "speed": 7.07,
+      "cadence": 90
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078564000,
+      "altitude": 34.96,
+      "speed": 7.13,
+      "cadence": 91
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078567000,
+      "altitude": 34.81,
+      "speed": 7.02,
+      "cadence": 28
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078569000,
+      "altitude": 34.76,
+      "speed": 6.98,
+      "cadence": 88
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078571000,
+      "altitude": 34.91,
+      "speed": 6.82,
+      "cadence": 87
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078573000,
+      "altitude": 35.14,
+      "speed": 6.74,
+      "cadence": 86
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078575000,
+      "altitude": 35.34,
+      "speed": 6.79,
+      "cadence": 86
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078577000,
+      "altitude": 35.51,
+      "speed": 7,
+      "cadence": 86
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078579000,
+      "altitude": 35.69,
+      "speed": 6.71,
+      "cadence": 86
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078581000,
+      "altitude": 35.7,
+      "speed": 6.87,
+      "cadence": 87
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078583000,
+      "altitude": 35.49,
+      "speed": 6.91,
+      "cadence": 86
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078585000,
+      "altitude": 35.48,
+      "speed": 6.8,
+      "cadence": 87
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078587000,
+      "altitude": 35.52,
+      "speed": 6.68,
+      "cadence": 86
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078589000,
+      "altitude": 35.47,
+      "speed": 6.68,
+      "cadence": 86
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078591000,
+      "altitude": 35.42,
+      "speed": 6.81,
+      "cadence": 87
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078593000,
+      "altitude": 35.61,
+      "speed": 6.64,
+      "cadence": 87
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078595000,
+      "altitude": 35.79,
+      "speed": 6.78,
+      "cadence": 86
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078597000,
+      "altitude": 36.04,
+      "speed": 6.69,
+      "cadence": 85
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078599000,
+      "altitude": 36.37,
+      "speed": 6.56,
+      "cadence": 84
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078601000,
+      "altitude": 36.91,
+      "speed": 6.25,
+      "cadence": 84
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078603000,
+      "altitude": 37.05,
+      "speed": 6.55,
+      "cadence": 84
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078605000,
+      "altitude": 37.01,
+      "speed": 6.59,
+      "cadence": 84
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078607000,
+      "altitude": 36.76,
+      "speed": 6.79,
+      "cadence": 84
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078609000,
+      "altitude": 36.34,
+      "speed": 6.44,
+      "cadence": 85
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078611000,
+      "altitude": 35.94,
+      "speed": 6.46,
+      "cadence": 84
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078613000,
+      "altitude": 35.89,
+      "speed": 6.4,
+      "cadence": 83
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078615000,
+      "altitude": 35.96,
+      "speed": 6.28,
+      "cadence": 83
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078617000,
+      "altitude": 35.69,
+      "speed": 6.52,
+      "cadence": 83
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078619000,
+      "altitude": 35.39,
+      "speed": 6.53,
+      "cadence": 84
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078621000,
+      "altitude": 35.1,
+      "speed": 6.72,
+      "cadence": 85
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078623000,
+      "altitude": 34.84,
+      "speed": 6.38,
+      "cadence": 85
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078625000,
+      "altitude": 34.44,
+      "speed": 6.55,
+      "cadence": 85
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078627000,
+      "altitude": 34.51,
+      "speed": 6.12,
+      "cadence": 85
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078629000,
+      "altitude": 34.91,
+      "speed": 6.08,
+      "cadence": 78
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078631000,
+      "altitude": 35.51,
+      "speed": 6.1,
+      "cadence": 78
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078634000,
+      "altitude": 36.44,
+      "speed": 7.07,
+      "cadence": 90
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078636000,
+      "altitude": 36.74,
+      "speed": 7.59,
+      "cadence": 100
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078638000,
+      "altitude": 36.61,
+      "speed": 7.79,
+      "cadence": 101
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078639000,
+      "altitude": 36.3,
+      "speed": 7.8,
+      "cadence": 100
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078641000,
+      "altitude": 35.64,
+      "speed": 7.77,
+      "cadence": 98
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078643000,
+      "altitude": 35.03,
+      "speed": 7.74,
+      "cadence": 97
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078645000,
+      "altitude": 34.48,
+      "speed": 7.72,
+      "cadence": 96
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078647000,
+      "altitude": 34.21,
+      "speed": 7.77,
+      "cadence": 96
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078649000,
+      "altitude": 34.21,
+      "speed": 7.28,
+      "cadence": 94
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078651000,
+      "altitude": 33.97,
+      "speed": 6.84,
+      "cadence": 86
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078653000,
+      "altitude": 33.7,
+      "speed": 6.61,
+      "cadence": 82
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078655000,
+      "altitude": 33.85,
+      "speed": 6.55,
+      "cadence": 82
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078657000,
+      "altitude": 34.51,
+      "speed": 6.26,
+      "cadence": 82
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078659000,
+      "altitude": 34.84,
+      "speed": 6.87,
+      "cadence": 85
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078661000,
+      "altitude": 35.05,
+      "speed": 6.83,
+      "cadence": 87
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078663000,
+      "altitude": 35.25,
+      "speed": 7.08,
+      "cadence": 90
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078665000,
+      "altitude": 35.53,
+      "speed": 7.31,
+      "cadence": 91
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078667000,
+      "altitude": 35.99,
+      "speed": 6.97,
+      "cadence": 91
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078669000,
+      "altitude": 36.13,
+      "speed": 7.27,
+      "cadence": 91
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078671000,
+      "altitude": 36.07,
+      "speed": 7.07,
+      "cadence": 90
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078673000,
+      "altitude": 35.92,
+      "speed": 6.98,
+      "cadence": 89
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078675000,
+      "altitude": 35.87,
+      "speed": 6.92,
+      "cadence": 89
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078677000,
+      "altitude": 35.91,
+      "speed": 7,
+      "cadence": 89
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078679000,
+      "altitude": 35.8,
+      "speed": 6.3,
+      "cadence": 88
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078681000,
+      "altitude": 35.75,
+      "speed": 6.33,
+      "cadence": 88
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078683000,
+      "altitude": 35.84,
+      "speed": 6.83,
+      "cadence": 89
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078685000,
+      "altitude": 35.93,
+      "speed": 6.94,
+      "cadence": 89
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078687000,
+      "altitude": 35.86,
+      "speed": 6.66,
+      "cadence": 89
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078689000,
+      "altitude": 35.81,
+      "speed": 6.58,
+      "cadence": 87
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078691000,
+      "altitude": 35.68,
+      "speed": 6.58,
+      "cadence": 86
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078694000,
+      "altitude": 35.84,
+      "speed": 6.8,
+      "cadence": 86
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078696000,
+      "altitude": 36.17,
+      "speed": 6.78,
+      "cadence": 86
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078698000,
+      "altitude": 36.4,
+      "speed": 6.59,
+      "cadence": 84
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078700000,
+      "altitude": 36.51,
+      "speed": 6.73,
+      "cadence": 83
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078702000,
+      "altitude": 36.6,
+      "speed": 6.28,
+      "cadence": 83
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078704000,
+      "altitude": 36.8,
+      "speed": 6.4,
+      "cadence": 82
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078706000,
+      "altitude": 37.39,
+      "speed": 6.41,
+      "cadence": 81
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078708000,
+      "altitude": 38.14,
+      "speed": 6.39,
+      "cadence": 81
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078710000,
+      "altitude": 38.71,
+      "speed": 6.35,
+      "cadence": 80
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078712000,
+      "altitude": 38.96,
+      "speed": 6.24,
+      "cadence": 81
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784078714000,
+      "altitude": 38.84,
+      "speed": 6.25,
+      "cadence": 81
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078716000,
+      "altitude": 38.4,
+      "speed": 6.51,
+      "cadence": 81
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784078718000,
+      "altitude": 37.8,
+      "speed": 6.45,
+      "cadence": 81
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078720000,
+      "altitude": 37.12,
+      "speed": 6.42,
+      "cadence": 81
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784078722000,
+      "altitude": 36.35,
+      "speed": 6.25,
+      "cadence": 80
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784078724000,
+      "altitude": 35.65,
+      "speed": 6.1,
+      "cadence": 79
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784078726000,
+      "altitude": 35.27,
+      "speed": 6.07,
+      "cadence": 72
+    },
+    {
+      "heartrate": 146,
+      "power": 0,
+      "time": 1784078728000,
+      "altitude": 34.98,
+      "speed": 5.76,
+      "cadence": 72
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784078730000,
+      "altitude": 34.93,
+      "speed": 5.49,
+      "cadence": 0
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784078732000,
+      "altitude": 35.33,
+      "speed": 5.28,
+      "cadence": 0
+    },
+    {
+      "heartrate": 143,
+      "power": 0,
+      "time": 1784078734000,
+      "altitude": 35.42,
+      "speed": 4.65,
+      "cadence": 0
+    },
+    {
+      "heartrate": 141,
+      "power": 0,
+      "time": 1784078736000,
+      "altitude": 35.46,
+      "speed": 4.43,
+      "cadence": 0
+    },
+    {
+      "heartrate": 140,
+      "power": 0,
+      "time": 1784078738000,
+      "altitude": 35.61,
+      "speed": 4.04,
+      "cadence": 5
+    },
+    {
+      "heartrate": 139,
+      "power": 0,
+      "time": 1784078740000,
+      "altitude": 35.71,
+      "speed": 2.91,
+      "cadence": 5
+    },
+    {
+      "heartrate": 125,
+      "power": 0,
+      "time": 1784078757000,
+      "altitude": 36.27,
+      "speed": 2.07,
+      "cadence": 4
+    },
+    {
+      "heartrate": 126,
+      "power": 0,
+      "time": 1784078760000,
+      "altitude": 36.42,
+      "speed": 4.58,
+      "cadence": 59
+    },
+    {
+      "heartrate": 126,
+      "power": 0,
+      "time": 1784078762000,
+      "altitude": 36.27,
+      "speed": 5.35,
+      "cadence": 75
+    },
+    {
+      "heartrate": 127,
+      "power": 0,
+      "time": 1784078764000,
+      "altitude": 36.17,
+      "speed": 5.36,
+      "cadence": 78
+    },
+    {
+      "heartrate": 129,
+      "power": 0,
+      "time": 1784078766000,
+      "altitude": 35.9,
+      "speed": 6.26,
+      "cadence": 87
+    },
+    {
+      "heartrate": 132,
+      "power": 0,
+      "time": 1784078768000,
+      "altitude": 35.68,
+      "speed": 6.74,
+      "cadence": 95
+    },
+    {
+      "heartrate": 136,
+      "power": 0,
+      "time": 1784078770000,
+      "altitude": 35.97,
+      "speed": 6.59,
+      "cadence": 85
+    },
+    {
+      "heartrate": 139,
+      "power": 0,
+      "time": 1784078772000,
+      "altitude": 36.12,
+      "speed": 6.83,
+      "cadence": 86
+    },
+    {
+      "heartrate": 143,
+      "power": 0,
+      "time": 1784078774000,
+      "altitude": 36.03,
+      "speed": 7.22,
+      "cadence": 90
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078776000,
+      "altitude": 36.11,
+      "speed": 7.38,
+      "cadence": 94
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784078778000,
+      "altitude": 36.17,
+      "speed": 7.51,
+      "cadence": 95
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078780000,
+      "altitude": 36.04,
+      "speed": 7.38,
+      "cadence": 94
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078782000,
+      "altitude": 35.83,
+      "speed": 7.29,
+      "cadence": 93
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078784000,
+      "altitude": 35.57,
+      "speed": 7.28,
+      "cadence": 91
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078786000,
+      "altitude": 35.41,
+      "speed": 7.03,
+      "cadence": 91
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078788000,
+      "altitude": 35.38,
+      "speed": 7.1,
+      "cadence": 91
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078790000,
+      "altitude": 35.5,
+      "speed": 7.2,
+      "cadence": 91
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078792000,
+      "altitude": 35.54,
+      "speed": 7.27,
+      "cadence": 91
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078794000,
+      "altitude": 35.81,
+      "speed": 7.34,
+      "cadence": 90
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078796000,
+      "altitude": 36.12,
+      "speed": 7.11,
+      "cadence": 90
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078798000,
+      "altitude": 36.41,
+      "speed": 7.09,
+      "cadence": 89
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078800000,
+      "altitude": 36.37,
+      "speed": 7.2,
+      "cadence": 89
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078802000,
+      "altitude": 36.14,
+      "speed": 6.97,
+      "cadence": 88
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078804000,
+      "altitude": 35.77,
+      "speed": 6.93,
+      "cadence": 87
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078806000,
+      "altitude": 35.31,
+      "speed": 7,
+      "cadence": 87
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078808000,
+      "altitude": 34.91,
+      "speed": 6.88,
+      "cadence": 87
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078810000,
+      "altitude": 34.89,
+      "speed": 6.75,
+      "cadence": 87
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078812000,
+      "altitude": 35.02,
+      "speed": 7.08,
+      "cadence": 87
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078814000,
+      "altitude": 35.4,
+      "speed": 6.87,
+      "cadence": 87
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078816000,
+      "altitude": 35.73,
+      "speed": 6.86,
+      "cadence": 87
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078818000,
+      "altitude": 35.76,
+      "speed": 6.85,
+      "cadence": 87
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078820000,
+      "altitude": 35.77,
+      "speed": 7.02,
+      "cadence": 88
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078822000,
+      "altitude": 35.82,
+      "speed": 6.97,
+      "cadence": 89
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784078824000,
+      "altitude": 35.95,
+      "speed": 7.29,
+      "cadence": 90
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784078826000,
+      "altitude": 36.02,
+      "speed": 7.1,
+      "cadence": 91
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784078828000,
+      "altitude": 35.97,
+      "speed": 7.11,
+      "cadence": 91
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784078830000,
+      "altitude": 35.96,
+      "speed": 7.26,
+      "cadence": 92
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784078832000,
+      "altitude": 36.27,
+      "speed": 7.26,
+      "cadence": 88
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784078834000,
+      "altitude": 36.73,
+      "speed": 6.83,
+      "cadence": 88
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784078836000,
+      "altitude": 37.13,
+      "speed": 6.62,
+      "cadence": 24
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078838000,
+      "altitude": 37.82,
+      "speed": 6.37,
+      "cadence": 82
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784078840000,
+      "altitude": 38.34,
+      "speed": 5.77,
+      "cadence": 76
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078842000,
+      "altitude": 38.61,
+      "speed": 5.63,
+      "cadence": 70
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078844000,
+      "altitude": 38.78,
+      "speed": 5.11,
+      "cadence": 70
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078846000,
+      "altitude": 38.74,
+      "speed": 6.09,
+      "cadence": 76
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078848000,
+      "altitude": 38.58,
+      "speed": 6.51,
+      "cadence": 82
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078850000,
+      "altitude": 38.3,
+      "speed": 6.96,
+      "cadence": 86
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078852000,
+      "altitude": 37.63,
+      "speed": 6.89,
+      "cadence": 89
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078854000,
+      "altitude": 37.03,
+      "speed": 7.03,
+      "cadence": 89
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078856000,
+      "altitude": 36.22,
+      "speed": 6.91,
+      "cadence": 90
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078858000,
+      "altitude": 35.37,
+      "speed": 6.99,
+      "cadence": 90
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078860000,
+      "altitude": 34.84,
+      "speed": 7.08,
+      "cadence": 89
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078862000,
+      "altitude": 34.69,
+      "speed": 7.06,
+      "cadence": 89
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078864000,
+      "altitude": 34.75,
+      "speed": 7.24,
+      "cadence": 90
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078866000,
+      "altitude": 34.85,
+      "speed": 7.21,
+      "cadence": 90
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078868000,
+      "altitude": 35.2,
+      "speed": 7.16,
+      "cadence": 90
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078870000,
+      "altitude": 35.62,
+      "speed": 7.16,
+      "cadence": 91
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078872000,
+      "altitude": 36.06,
+      "speed": 7.26,
+      "cadence": 91
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078874000,
+      "altitude": 36.3,
+      "speed": 7.15,
+      "cadence": 92
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078876000,
+      "altitude": 37.13,
+      "speed": 7.33,
+      "cadence": 92
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078878000,
+      "altitude": 38.18,
+      "speed": 7.15,
+      "cadence": 86
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078880000,
+      "altitude": 38.9,
+      "speed": 6.32,
+      "cadence": 0
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784078882000,
+      "altitude": 39.31,
+      "speed": 5.25,
+      "cadence": 0
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784078884000,
+      "altitude": 39.8,
+      "speed": 5.91,
+      "cadence": 72
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078886000,
+      "altitude": 39.93,
+      "speed": 6.35,
+      "cadence": 78
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078888000,
+      "altitude": 39.74,
+      "speed": 6.43,
+      "cadence": 82
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078890000,
+      "altitude": 39.63,
+      "speed": 6.45,
+      "cadence": 82
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078892000,
+      "altitude": 40.15,
+      "speed": 6.56,
+      "cadence": 79
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078894000,
+      "altitude": 40.75,
+      "speed": 6.64,
+      "cadence": 84
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078896000,
+      "altitude": 41.27,
+      "speed": 6.64,
+      "cadence": 86
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078898000,
+      "altitude": 41.54,
+      "speed": 6.81,
+      "cadence": 86
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078900000,
+      "altitude": 41.44,
+      "speed": 6.81,
+      "cadence": 87
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078902000,
+      "altitude": 41.31,
+      "speed": 6.97,
+      "cadence": 87
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078904000,
+      "altitude": 41.12,
+      "speed": 7.06,
+      "cadence": 87
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784078906000,
+      "altitude": 40.6,
+      "speed": 6.93,
+      "cadence": 87
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078908000,
+      "altitude": 40.15,
+      "speed": 6.96,
+      "cadence": 88
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784078910000,
+      "altitude": 39.92,
+      "speed": 6.85,
+      "cadence": 88
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078912000,
+      "altitude": 39.71,
+      "speed": 6.96,
+      "cadence": 87
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078914000,
+      "altitude": 39.24,
+      "speed": 7.27,
+      "cadence": 90
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078916000,
+      "altitude": 38.71,
+      "speed": 7.83,
+      "cadence": 92
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784078918000,
+      "altitude": 38.01,
+      "speed": 7.5,
+      "cadence": 92
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078920000,
+      "altitude": 37.44,
+      "speed": 7.14,
+      "cadence": 86
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078922000,
+      "altitude": 37.28,
+      "speed": 7.09,
+      "cadence": 86
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784078924000,
+      "altitude": 37.75,
+      "speed": 7.01,
+      "cadence": 27
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078926000,
+      "altitude": 38.43,
+      "speed": 6.8,
+      "cadence": 86
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784078928000,
+      "altitude": 38.96,
+      "speed": 6.88,
+      "cadence": 85
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784078930000,
+      "altitude": 39.03,
+      "speed": 6.72,
+      "cadence": 84
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784078932000,
+      "altitude": 39,
+      "speed": 6.94,
+      "cadence": 85
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784078934000,
+      "altitude": 39.22,
+      "speed": 6.72,
+      "cadence": 86
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078936000,
+      "altitude": 39.5,
+      "speed": 6.93,
+      "cadence": 86
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784078938000,
+      "altitude": 39.66,
+      "speed": 6.78,
+      "cadence": 86
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784078940000,
+      "altitude": 39.7,
+      "speed": 6.69,
+      "cadence": 86
+    },
+    {
+      "heartrate": 143,
+      "power": 0,
+      "time": 1784078942000,
+      "altitude": 39.68,
+      "speed": 6.66,
+      "cadence": 86
+    },
+    {
+      "heartrate": 142,
+      "power": 0,
+      "time": 1784078944000,
+      "altitude": 39.62,
+      "speed": 6.82,
+      "cadence": 86
+    },
+    {
+      "heartrate": 141,
+      "power": 0,
+      "time": 1784078946000,
+      "altitude": 39.26,
+      "speed": 6.92,
+      "cadence": 86
+    },
+    {
+      "heartrate": 139,
+      "power": 0,
+      "time": 1784078948000,
+      "altitude": 38.9,
+      "speed": 6.81,
+      "cadence": 86
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784078950000,
+      "altitude": 38.71,
+      "speed": 6.93,
+      "cadence": 87
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784078952000,
+      "altitude": 38.53,
+      "speed": 6.93,
+      "cadence": 87
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784078954000,
+      "altitude": 38.49,
+      "speed": 6.98,
+      "cadence": 89
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784078956000,
+      "altitude": 38.42,
+      "speed": 7.16,
+      "cadence": 90
+    },
+    {
+      "heartrate": 137,
+      "power": 0,
+      "time": 1784078958000,
+      "altitude": 38.35,
+      "speed": 7.12,
+      "cadence": 91
+    },
+    {
+      "heartrate": 137,
+      "power": 0,
+      "time": 1784078960000,
+      "altitude": 38.25,
+      "speed": 7.14,
+      "cadence": 91
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784078962000,
+      "altitude": 38.26,
+      "speed": 7.16,
+      "cadence": 91
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784078964000,
+      "altitude": 38.38,
+      "speed": 7.2,
+      "cadence": 91
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784078966000,
+      "altitude": 38.34,
+      "speed": 6.96,
+      "cadence": 90
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784078968000,
+      "altitude": 38.25,
+      "speed": 6.97,
+      "cadence": 88
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784078970000,
+      "altitude": 38.25,
+      "speed": 6.84,
+      "cadence": 87
+    },
+    {
+      "heartrate": 137,
+      "power": 0,
+      "time": 1784078972000,
+      "altitude": 38.32,
+      "speed": 6.74,
+      "cadence": 85
+    },
+    {
+      "heartrate": 137,
+      "power": 0,
+      "time": 1784078974000,
+      "altitude": 38.41,
+      "speed": 6.59,
+      "cadence": 84
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784078976000,
+      "altitude": 38.59,
+      "speed": 6.71,
+      "cadence": 84
+    },
+    {
+      "heartrate": 139,
+      "power": 0,
+      "time": 1784078978000,
+      "altitude": 38.69,
+      "speed": 6.73,
+      "cadence": 84
+    },
+    {
+      "heartrate": 139,
+      "power": 0,
+      "time": 1784078980000,
+      "altitude": 38.67,
+      "speed": 6.46,
+      "cadence": 84
+    },
+    {
+      "heartrate": 139,
+      "power": 0,
+      "time": 1784078982000,
+      "altitude": 38.64,
+      "speed": 6.61,
+      "cadence": 83
+    },
+    {
+      "heartrate": 140,
+      "power": 0,
+      "time": 1784078984000,
+      "altitude": 38.49,
+      "speed": 6.68,
+      "cadence": 84
+    },
+    {
+      "heartrate": 140,
+      "power": 0,
+      "time": 1784078986000,
+      "altitude": 38.19,
+      "speed": 6.51,
+      "cadence": 83
+    },
+    {
+      "heartrate": 141,
+      "power": 0,
+      "time": 1784078988000,
+      "altitude": 38.25,
+      "speed": 6.54,
+      "cadence": 83
+    },
+    {
+      "heartrate": 142,
+      "power": 0,
+      "time": 1784078990000,
+      "altitude": 38.48,
+      "speed": 6.61,
+      "cadence": 82
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784078992000,
+      "altitude": 38.58,
+      "speed": 6.47,
+      "cadence": 82
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784078994000,
+      "altitude": 38.68,
+      "speed": 6.41,
+      "cadence": 82
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784078996000,
+      "altitude": 38.79,
+      "speed": 6.27,
+      "cadence": 80
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784078998000,
+      "altitude": 38.86,
+      "speed": 6.08,
+      "cadence": 78
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784079000000,
+      "altitude": 38.96,
+      "speed": 5.98,
+      "cadence": 73
+    },
+    {
+      "heartrate": 146,
+      "power": 0,
+      "time": 1784079002000,
+      "altitude": 38.78,
+      "speed": 6.12,
+      "cadence": 73
+    },
+    {
+      "heartrate": 146,
+      "power": 0,
+      "time": 1784079004000,
+      "altitude": 38.4,
+      "speed": 6.03,
+      "cadence": 0
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784079006000,
+      "altitude": 38.26,
+      "speed": 6.04,
+      "cadence": 0
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784079008000,
+      "altitude": 38.31,
+      "speed": 6.14,
+      "cadence": 0
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784079010000,
+      "altitude": 38.52,
+      "speed": 6.16,
+      "cadence": 0
+    },
+    {
+      "heartrate": 143,
+      "power": 0,
+      "time": 1784079012000,
+      "altitude": 38.74,
+      "speed": 6.54,
+      "cadence": 0
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784079014000,
+      "altitude": 39.04,
+      "speed": 5.96,
+      "cadence": 0
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784079016000,
+      "altitude": 39.19,
+      "speed": 3.99,
+      "cadence": 0
+    },
+    {
+      "heartrate": 138,
+      "power": 0,
+      "time": 1784079021000,
+      "altitude": 39.97,
+      "speed": 0,
+      "cadence": 0
+    },
+    {
+      "heartrate": 119,
+      "power": 0,
+      "time": 1784079091000,
+      "altitude": 40.94,
+      "speed": 2.74,
+      "cadence": 0
+    },
+    {
+      "heartrate": 122,
+      "power": 0,
+      "time": 1784079094000,
+      "altitude": 40.68,
+      "speed": 5.82,
+      "cadence": 64
+    },
+    {
+      "heartrate": 125,
+      "power": 0,
+      "time": 1784079096000,
+      "altitude": 40.19,
+      "speed": 6.81,
+      "cadence": 84
+    },
+    {
+      "heartrate": 134,
+      "power": 0,
+      "time": 1784079098000,
+      "altitude": 39.53,
+      "speed": 6.74,
+      "cadence": 82
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784079100000,
+      "altitude": 38.94,
+      "speed": 5.66,
+      "cadence": 0
+    },
+    {
+      "heartrate": 146,
+      "power": 0,
+      "time": 1784079102000,
+      "altitude": 38.67,
+      "speed": 5.5,
+      "cadence": 13
+    },
+    {
+      "heartrate": 146,
+      "power": 0,
+      "time": 1784079104000,
+      "altitude": 38.59,
+      "speed": 5.76,
+      "cadence": 73
+    },
+    {
+      "heartrate": 146,
+      "power": 0,
+      "time": 1784079106000,
+      "altitude": 38.71,
+      "speed": 6.37,
+      "cadence": 77
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784079108000,
+      "altitude": 38.79,
+      "speed": 7.7,
+      "cadence": 91
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784079110000,
+      "altitude": 38.91,
+      "speed": 8.71,
+      "cadence": 92
+    },
+    {
+      "heartrate": 144,
+      "power": 0,
+      "time": 1784079111000,
+      "altitude": 39.04,
+      "speed": 9.17,
+      "cadence": 97
+    },
+    {
+      "heartrate": 145,
+      "power": 0,
+      "time": 1784079112000,
+      "altitude": 39.21,
+      "speed": 9.5,
+      "cadence": 97
+    },
+    {
+      "heartrate": 146,
+      "power": 0,
+      "time": 1784079113000,
+      "altitude": 39.34,
+      "speed": 9.1,
+      "cadence": 86
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784079114000,
+      "altitude": 39.51,
+      "speed": 8.96,
+      "cadence": 47
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784079115000,
+      "altitude": 39.65,
+      "speed": 8.99,
+      "cadence": 67
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784079116000,
+      "altitude": 39.69,
+      "speed": 9.23,
+      "cadence": 78
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784079117000,
+      "altitude": 39.69,
+      "speed": 9.27,
+      "cadence": 86
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784079118000,
+      "altitude": 39.59,
+      "speed": 9.54,
+      "cadence": 91
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079119000,
+      "altitude": 39.63,
+      "speed": 9.65,
+      "cadence": 92
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079120000,
+      "altitude": 39.64,
+      "speed": 9.27,
+      "cadence": 39
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784079121000,
+      "altitude": 39.59,
+      "speed": 9.43,
+      "cadence": 92
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784079122000,
+      "altitude": 39.69,
+      "speed": 9.8,
+      "cadence": 93
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784079123000,
+      "altitude": 39.78,
+      "speed": 9.93,
+      "cadence": 95
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784079124000,
+      "altitude": 39.7,
+      "speed": 10.09,
+      "cadence": 96
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784079125000,
+      "altitude": 39.68,
+      "speed": 9.95,
+      "cadence": 97
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079126000,
+      "altitude": 39.64,
+      "speed": 10.09,
+      "cadence": 98
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079127000,
+      "altitude": 39.53,
+      "speed": 10.2,
+      "cadence": 98
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079128000,
+      "altitude": 39.38,
+      "speed": 10.08,
+      "cadence": 98
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079129000,
+      "altitude": 39.18,
+      "speed": 10.1,
+      "cadence": 99
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079130000,
+      "altitude": 38.88,
+      "speed": 10.1,
+      "cadence": 98
+    },
+    {
+      "heartrate": 170,
+      "power": 0,
+      "time": 1784079131000,
+      "altitude": 38.5,
+      "speed": 10.11,
+      "cadence": 98
+    },
+    {
+      "heartrate": 170,
+      "power": 0,
+      "time": 1784079132000,
+      "altitude": 38.22,
+      "speed": 9.94,
+      "cadence": 98
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079133000,
+      "altitude": 37.93,
+      "speed": 9.98,
+      "cadence": 97
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079134000,
+      "altitude": 37.78,
+      "speed": 9.96,
+      "cadence": 97
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079135000,
+      "altitude": 37.64,
+      "speed": 9.61,
+      "cadence": 96
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079136000,
+      "altitude": 37.51,
+      "speed": 9.91,
+      "cadence": 96
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079137000,
+      "altitude": 37.38,
+      "speed": 9.8,
+      "cadence": 95
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079138000,
+      "altitude": 37.34,
+      "speed": 9.78,
+      "cadence": 95
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079139000,
+      "altitude": 37.33,
+      "speed": 9.79,
+      "cadence": 95
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079140000,
+      "altitude": 37.32,
+      "speed": 9.64,
+      "cadence": 95
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079141000,
+      "altitude": 37.33,
+      "speed": 9.64,
+      "cadence": 94
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079142000,
+      "altitude": 37.42,
+      "speed": 9.51,
+      "cadence": 88
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079143000,
+      "altitude": 37.49,
+      "speed": 9.27,
+      "cadence": 46
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079144000,
+      "altitude": 37.57,
+      "speed": 9.45,
+      "cadence": 92
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079145000,
+      "altitude": 37.61,
+      "speed": 9.27,
+      "cadence": 92
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079146000,
+      "altitude": 37.67,
+      "speed": 9.24,
+      "cadence": 91
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079147000,
+      "altitude": 37.75,
+      "speed": 9.27,
+      "cadence": 91
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079148000,
+      "altitude": 37.85,
+      "speed": 9.28,
+      "cadence": 91
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079149000,
+      "altitude": 37.88,
+      "speed": 9.29,
+      "cadence": 90
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079150000,
+      "altitude": 37.84,
+      "speed": 9.27,
+      "cadence": 89
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079151000,
+      "altitude": 37.87,
+      "speed": 9.11,
+      "cadence": 89
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079152000,
+      "altitude": 37.97,
+      "speed": 9.03,
+      "cadence": 90
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079153000,
+      "altitude": 38.03,
+      "speed": 9.38,
+      "cadence": 90
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079154000,
+      "altitude": 38.16,
+      "speed": 9.27,
+      "cadence": 91
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079155000,
+      "altitude": 38.29,
+      "speed": 9.29,
+      "cadence": 90
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079156000,
+      "altitude": 38.42,
+      "speed": 9.12,
+      "cadence": 90
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079157000,
+      "altitude": 38.58,
+      "speed": 9.16,
+      "cadence": 90
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079158000,
+      "altitude": 38.74,
+      "speed": 8.98,
+      "cadence": 90
+    },
+    {
+      "heartrate": 170,
+      "power": 0,
+      "time": 1784079159000,
+      "altitude": 38.78,
+      "speed": 9.17,
+      "cadence": 90
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079160000,
+      "altitude": 38.96,
+      "speed": 8.95,
+      "cadence": 90
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079161000,
+      "altitude": 39.11,
+      "speed": 9.13,
+      "cadence": 90
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079162000,
+      "altitude": 39.3,
+      "speed": 9.17,
+      "cadence": 89
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079163000,
+      "altitude": 39.4,
+      "speed": 9.15,
+      "cadence": 89
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079164000,
+      "altitude": 39.39,
+      "speed": 9.18,
+      "cadence": 89
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079165000,
+      "altitude": 39.35,
+      "speed": 9.15,
+      "cadence": 89
+    },
+    {
+      "heartrate": 170,
+      "power": 0,
+      "time": 1784079166000,
+      "altitude": 39.32,
+      "speed": 9.12,
+      "cadence": 89
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079167000,
+      "altitude": 39.21,
+      "speed": 9.22,
+      "cadence": 89
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079168000,
+      "altitude": 39.04,
+      "speed": 9.06,
+      "cadence": 89
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079169000,
+      "altitude": 38.91,
+      "speed": 9.07,
+      "cadence": 89
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079170000,
+      "altitude": 38.8,
+      "speed": 9.04,
+      "cadence": 88
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079171000,
+      "altitude": 38.76,
+      "speed": 9.07,
+      "cadence": 88
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079172000,
+      "altitude": 38.74,
+      "speed": 9.04,
+      "cadence": 88
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079173000,
+      "altitude": 38.71,
+      "speed": 9.05,
+      "cadence": 88
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079174000,
+      "altitude": 38.72,
+      "speed": 9.03,
+      "cadence": 88
+    },
+    {
+      "heartrate": 170,
+      "power": 0,
+      "time": 1784079175000,
+      "altitude": 38.69,
+      "speed": 9.17,
+      "cadence": 89
+    },
+    {
+      "heartrate": 170,
+      "power": 0,
+      "time": 1784079176000,
+      "altitude": 38.69,
+      "speed": 8.91,
+      "cadence": 88
+    },
+    {
+      "heartrate": 170,
+      "power": 0,
+      "time": 1784079177000,
+      "altitude": 38.65,
+      "speed": 8.92,
+      "cadence": 88
+    },
+    {
+      "heartrate": 169,
+      "power": 0,
+      "time": 1784079178000,
+      "altitude": 38.59,
+      "speed": 9.06,
+      "cadence": 88
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079179000,
+      "altitude": 38.55,
+      "speed": 8.97,
+      "cadence": 88
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079180000,
+      "altitude": 38.4,
+      "speed": 9.14,
+      "cadence": 88
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079181000,
+      "altitude": 38.23,
+      "speed": 8.95,
+      "cadence": 89
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079182000,
+      "altitude": 38.08,
+      "speed": 9.12,
+      "cadence": 88
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079183000,
+      "altitude": 37.96,
+      "speed": 9.03,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079184000,
+      "altitude": 37.88,
+      "speed": 9.05,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079185000,
+      "altitude": 37.86,
+      "speed": 9.06,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079186000,
+      "altitude": 37.81,
+      "speed": 9.05,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079187000,
+      "altitude": 37.86,
+      "speed": 9.21,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079188000,
+      "altitude": 37.96,
+      "speed": 9.2,
+      "cadence": 89
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079189000,
+      "altitude": 38.03,
+      "speed": 8.99,
+      "cadence": 89
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079190000,
+      "altitude": 38.12,
+      "speed": 9.01,
+      "cadence": 89
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079191000,
+      "altitude": 38.27,
+      "speed": 8.92,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079192000,
+      "altitude": 38.39,
+      "speed": 8.95,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079193000,
+      "altitude": 38.49,
+      "speed": 8.97,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079194000,
+      "altitude": 38.59,
+      "speed": 9.06,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079195000,
+      "altitude": 38.74,
+      "speed": 9.05,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079196000,
+      "altitude": 38.91,
+      "speed": 9.03,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079197000,
+      "altitude": 39,
+      "speed": 9,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079198000,
+      "altitude": 38.92,
+      "speed": 8.91,
+      "cadence": 88
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079199000,
+      "altitude": 38.67,
+      "speed": 8.88,
+      "cadence": 87
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079200000,
+      "altitude": 38.25,
+      "speed": 9.04,
+      "cadence": 87
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079201000,
+      "altitude": 37.76,
+      "speed": 8.89,
+      "cadence": 88
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079202000,
+      "altitude": 37.34,
+      "speed": 9.03,
+      "cadence": 88
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079203000,
+      "altitude": 36.91,
+      "speed": 9.04,
+      "cadence": 87
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079204000,
+      "altitude": 36.62,
+      "speed": 8.95,
+      "cadence": 88
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079205000,
+      "altitude": 36.53,
+      "speed": 9.05,
+      "cadence": 88
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079206000,
+      "altitude": 36.56,
+      "speed": 9.07,
+      "cadence": 88
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079207000,
+      "altitude": 36.65,
+      "speed": 8.9,
+      "cadence": 88
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079208000,
+      "altitude": 36.79,
+      "speed": 8.99,
+      "cadence": 88
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079209000,
+      "altitude": 37.07,
+      "speed": 8.95,
+      "cadence": 87
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079210000,
+      "altitude": 37.41,
+      "speed": 8.97,
+      "cadence": 87
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079211000,
+      "altitude": 37.66,
+      "speed": 8.99,
+      "cadence": 87
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079212000,
+      "altitude": 37.73,
+      "speed": 8.65,
+      "cadence": 87
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079213000,
+      "altitude": 37.7,
+      "speed": 8.79,
+      "cadence": 87
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079214000,
+      "altitude": 37.65,
+      "speed": 8.83,
+      "cadence": 86
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079215000,
+      "altitude": 37.52,
+      "speed": 8.69,
+      "cadence": 86
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079216000,
+      "altitude": 37.39,
+      "speed": 8.58,
+      "cadence": 85
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079217000,
+      "altitude": 37.25,
+      "speed": 8.59,
+      "cadence": 84
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079218000,
+      "altitude": 37.23,
+      "speed": 8.55,
+      "cadence": 84
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079219000,
+      "altitude": 37.22,
+      "speed": 8.53,
+      "cadence": 83
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079220000,
+      "altitude": 37.27,
+      "speed": 8.5,
+      "cadence": 83
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079221000,
+      "altitude": 37.36,
+      "speed": 8.61,
+      "cadence": 83
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079222000,
+      "altitude": 37.5,
+      "speed": 8.53,
+      "cadence": 83
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079223000,
+      "altitude": 37.56,
+      "speed": 8.74,
+      "cadence": 82
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079224000,
+      "altitude": 37.72,
+      "speed": 8.54,
+      "cadence": 82
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079225000,
+      "altitude": 37.83,
+      "speed": 8.39,
+      "cadence": 82
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079226000,
+      "altitude": 37.96,
+      "speed": 8.39,
+      "cadence": 81
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079227000,
+      "altitude": 37.99,
+      "speed": 8.36,
+      "cadence": 81
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784079228000,
+      "altitude": 38,
+      "speed": 8.37,
+      "cadence": 81
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784079229000,
+      "altitude": 37.96,
+      "speed": 8.37,
+      "cadence": 81
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784079230000,
+      "altitude": 37.84,
+      "speed": 8.14,
+      "cadence": 81
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784079232000,
+      "altitude": 37.64,
+      "speed": 8.23,
+      "cadence": 80
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784079233000,
+      "altitude": 37.57,
+      "speed": 8.23,
+      "cadence": 80
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784079235000,
+      "altitude": 37.45,
+      "speed": 8.18,
+      "cadence": 81
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784079237000,
+      "altitude": 37.53,
+      "speed": 8.3,
+      "cadence": 82
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784079238000,
+      "altitude": 37.56,
+      "speed": 8.33,
+      "cadence": 82
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784079239000,
+      "altitude": 37.6,
+      "speed": 8.46,
+      "cadence": 82
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784079240000,
+      "altitude": 37.66,
+      "speed": 8.43,
+      "cadence": 82
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784079241000,
+      "altitude": 37.66,
+      "speed": 8.32,
+      "cadence": 82
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784079242000,
+      "altitude": 37.67,
+      "speed": 8.36,
+      "cadence": 82
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784079243000,
+      "altitude": 37.83,
+      "speed": 8.38,
+      "cadence": 82
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784079244000,
+      "altitude": 38,
+      "speed": 8.36,
+      "cadence": 81
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784079245000,
+      "altitude": 38.04,
+      "speed": 8.4,
+      "cadence": 81
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784079246000,
+      "altitude": 37.93,
+      "speed": 8.41,
+      "cadence": 82
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079247000,
+      "altitude": 37.78,
+      "speed": 8.51,
+      "cadence": 82
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079248000,
+      "altitude": 37.62,
+      "speed": 8.5,
+      "cadence": 83
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079249000,
+      "altitude": 37.49,
+      "speed": 8.82,
+      "cadence": 84
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079250000,
+      "altitude": 37.37,
+      "speed": 8.65,
+      "cadence": 86
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079251000,
+      "altitude": 37.23,
+      "speed": 8.84,
+      "cadence": 79
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079252000,
+      "altitude": 37.1,
+      "speed": 9.18,
+      "cadence": 46
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079253000,
+      "altitude": 37,
+      "speed": 9.19,
+      "cadence": 46
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079254000,
+      "altitude": 36.88,
+      "speed": 9.06,
+      "cadence": 46
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079255000,
+      "altitude": 36.66,
+      "speed": 9.54,
+      "cadence": 46
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079256000,
+      "altitude": 36.42,
+      "speed": 9.35,
+      "cadence": 0
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079257000,
+      "altitude": 36.1,
+      "speed": 9.85,
+      "cadence": 0
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079258000,
+      "altitude": 35.93,
+      "speed": 9.58,
+      "cadence": 0
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079259000,
+      "altitude": 35.8,
+      "speed": 9.6,
+      "cadence": 0
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079260000,
+      "altitude": 35.7,
+      "speed": 9.51,
+      "cadence": 0
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079261000,
+      "altitude": 35.72,
+      "speed": 9.38,
+      "cadence": 0
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079262000,
+      "altitude": 35.77,
+      "speed": 9.37,
+      "cadence": 0
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079263000,
+      "altitude": 35.79,
+      "speed": 9.39,
+      "cadence": 0
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079264000,
+      "altitude": 35.79,
+      "speed": 9.36,
+      "cadence": 0
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079265000,
+      "altitude": 35.75,
+      "speed": 9.18,
+      "cadence": 0
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079266000,
+      "altitude": 35.62,
+      "speed": 9.03,
+      "cadence": 0
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079267000,
+      "altitude": 35.49,
+      "speed": 9.28,
+      "cadence": 0
+    },
+    {
+      "heartrate": 165,
+      "power": 0,
+      "time": 1784079268000,
+      "altitude": 35.27,
+      "speed": 9.15,
+      "cadence": 0
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079269000,
+      "altitude": 34.83,
+      "speed": 9.01,
+      "cadence": 0
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784079270000,
+      "altitude": 34.77,
+      "speed": 8.98,
+      "cadence": 0
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784079271000,
+      "altitude": 34.89,
+      "speed": 8.74,
+      "cadence": 0
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784079272000,
+      "altitude": 34.91,
+      "speed": 8.51,
+      "cadence": 0
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784079273000,
+      "altitude": 34.97,
+      "speed": 8.3,
+      "cadence": 0
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784079275000,
+      "altitude": 34.78,
+      "speed": 7.91,
+      "cadence": 0
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079277000,
+      "altitude": 34.22,
+      "speed": 4.35,
+      "cadence": 0
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784079281000,
+      "altitude": 33.25,
+      "speed": 2.83,
+      "cadence": 28
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784079284000,
+      "altitude": 33.06,
+      "speed": 5.28,
+      "cadence": 72
+    },
+    {
+      "heartrate": 146,
+      "power": 0,
+      "time": 1784079286000,
+      "altitude": 33.2,
+      "speed": 6.78,
+      "cadence": 92
+    },
+    {
+      "heartrate": 147,
+      "power": 0,
+      "time": 1784079288000,
+      "altitude": 33.49,
+      "speed": 7.47,
+      "cadence": 99
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784079290000,
+      "altitude": 34.13,
+      "speed": 7.6,
+      "cadence": 96
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079292000,
+      "altitude": 34.73,
+      "speed": 7.58,
+      "cadence": 98
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784079294000,
+      "altitude": 35.24,
+      "speed": 7.71,
+      "cadence": 97
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784079295000,
+      "altitude": 35.45,
+      "speed": 7.71,
+      "cadence": 97
+    },
+    {
+      "heartrate": 162,
+      "power": 0,
+      "time": 1784079297000,
+      "altitude": 35.64,
+      "speed": 7.81,
+      "cadence": 99
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079298000,
+      "altitude": 35.67,
+      "speed": 8.02,
+      "cadence": 100
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079300000,
+      "altitude": 35.58,
+      "speed": 8.2,
+      "cadence": 102
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079302000,
+      "altitude": 35.72,
+      "speed": 8.22,
+      "cadence": 102
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079303000,
+      "altitude": 35.9,
+      "speed": 8.25,
+      "cadence": 103
+    },
+    {
+      "heartrate": 167,
+      "power": 0,
+      "time": 1784079304000,
+      "altitude": 36.1,
+      "speed": 8.21,
+      "cadence": 89
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079305000,
+      "altitude": 36.32,
+      "speed": 8.25,
+      "cadence": 90
+    },
+    {
+      "heartrate": 169,
+      "power": 0,
+      "time": 1784079307000,
+      "altitude": 36.73,
+      "speed": 8.35,
+      "cadence": 90
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079309000,
+      "altitude": 36.96,
+      "speed": 8.05,
+      "cadence": 84
+    },
+    {
+      "heartrate": 171,
+      "power": 0,
+      "time": 1784079310000,
+      "altitude": 37.13,
+      "speed": 7.89,
+      "cadence": 84
+    },
+    {
+      "heartrate": 173,
+      "power": 0,
+      "time": 1784079312000,
+      "altitude": 37.25,
+      "speed": 7.85,
+      "cadence": 0
+    },
+    {
+      "heartrate": 175,
+      "power": 0,
+      "time": 1784079314000,
+      "altitude": 36.96,
+      "speed": 7.88,
+      "cadence": 0
+    },
+    {
+      "heartrate": 176,
+      "power": 0,
+      "time": 1784079315000,
+      "altitude": 36.84,
+      "speed": 7.62,
+      "cadence": 0
+    },
+    {
+      "heartrate": 177,
+      "power": 0,
+      "time": 1784079316000,
+      "altitude": 36.79,
+      "speed": 7.72,
+      "cadence": 0
+    },
+    {
+      "heartrate": 177,
+      "power": 0,
+      "time": 1784079317000,
+      "altitude": 36.78,
+      "speed": 8.07,
+      "cadence": 0
+    },
+    {
+      "heartrate": 178,
+      "power": 0,
+      "time": 1784079319000,
+      "altitude": 36.51,
+      "speed": 7.96,
+      "cadence": 0
+    },
+    {
+      "heartrate": 178,
+      "power": 0,
+      "time": 1784079321000,
+      "altitude": 36.18,
+      "speed": 7.95,
+      "cadence": 5
+    },
+    {
+      "heartrate": 178,
+      "power": 0,
+      "time": 1784079322000,
+      "altitude": 36.04,
+      "speed": 8.2,
+      "cadence": 69
+    },
+    {
+      "heartrate": 178,
+      "power": 0,
+      "time": 1784079323000,
+      "altitude": 36.63,
+      "speed": 7.76,
+      "cadence": 88
+    },
+    {
+      "heartrate": 177,
+      "power": 0,
+      "time": 1784079325000,
+      "altitude": 37.76,
+      "speed": 7.86,
+      "cadence": 85
+    },
+    {
+      "heartrate": 177,
+      "power": 0,
+      "time": 1784079326000,
+      "altitude": 38.17,
+      "speed": 7.59,
+      "cadence": 85
+    },
+    {
+      "heartrate": 177,
+      "power": 0,
+      "time": 1784079327000,
+      "altitude": 38.49,
+      "speed": 7.23,
+      "cadence": 85
+    },
+    {
+      "heartrate": 178,
+      "power": 0,
+      "time": 1784079329000,
+      "altitude": 39.07,
+      "speed": 6.61,
+      "cadence": 24
+    },
+    {
+      "heartrate": 177,
+      "power": 0,
+      "time": 1784079331000,
+      "altitude": 39.2,
+      "speed": 5.98,
+      "cadence": 0
+    },
+    {
+      "heartrate": 175,
+      "power": 0,
+      "time": 1784079333000,
+      "altitude": 38.87,
+      "speed": 5.34,
+      "cadence": 14
+    },
+    {
+      "heartrate": 175,
+      "power": 0,
+      "time": 1784079336000,
+      "altitude": 38.48,
+      "speed": 2.25,
+      "cadence": 19
+    },
+    {
+      "heartrate": 174,
+      "power": 0,
+      "time": 1784079340000,
+      "altitude": 37.27,
+      "speed": 3.77,
+      "cadence": 50
+    },
+    {
+      "heartrate": 172,
+      "power": 0,
+      "time": 1784079343000,
+      "altitude": 36.96,
+      "speed": 3.11,
+      "cadence": 18
+    },
+    {
+      "heartrate": 170,
+      "power": 0,
+      "time": 1784079345000,
+      "altitude": 36.89,
+      "speed": 4.17,
+      "cadence": 59
+    },
+    {
+      "heartrate": 168,
+      "power": 0,
+      "time": 1784079347000,
+      "altitude": 36.99,
+      "speed": 4.97,
+      "cadence": 74
+    },
+    {
+      "heartrate": 166,
+      "power": 0,
+      "time": 1784079349000,
+      "altitude": 37.2,
+      "speed": 5.44,
+      "cadence": 84
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079351000,
+      "altitude": 37.5,
+      "speed": 6.09,
+      "cadence": 87
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079353000,
+      "altitude": 37.99,
+      "speed": 6.28,
+      "cadence": 89
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079355000,
+      "altitude": 38.69,
+      "speed": 6.28,
+      "cadence": 90
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079357000,
+      "altitude": 38.54,
+      "speed": 6.03,
+      "cadence": 90
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079359000,
+      "altitude": 38.35,
+      "speed": 6.04,
+      "cadence": 90
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079361000,
+      "altitude": 38.22,
+      "speed": 5.91,
+      "cadence": 0
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079363000,
+      "altitude": 38.06,
+      "speed": 5.85,
+      "cadence": 18
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079365000,
+      "altitude": 37.94,
+      "speed": 6.02,
+      "cadence": 86
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079367000,
+      "altitude": 37.48,
+      "speed": 5.83,
+      "cadence": 86
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079369000,
+      "altitude": 37.01,
+      "speed": 5.93,
+      "cadence": 84
+    },
+    {
+      "heartrate": 164,
+      "power": 0,
+      "time": 1784079371000,
+      "altitude": 36.74,
+      "speed": 6.12,
+      "cadence": 87
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079373000,
+      "altitude": 36.45,
+      "speed": 5.91,
+      "cadence": 87
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079375000,
+      "altitude": 36.48,
+      "speed": 5.99,
+      "cadence": 86
+    },
+    {
+      "heartrate": 163,
+      "power": 0,
+      "time": 1784079377000,
+      "altitude": 36.73,
+      "speed": 5.93,
+      "cadence": 80
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784079379000,
+      "altitude": 37.03,
+      "speed": 5.4,
+      "cadence": 81
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784079381000,
+      "altitude": 37.09,
+      "speed": 5.7,
+      "cadence": 69
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784079383000,
+      "altitude": 37.08,
+      "speed": 5.06,
+      "cadence": 69
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784079385000,
+      "altitude": 36.91,
+      "speed": 4.55,
+      "cadence": 0
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784079387000,
+      "altitude": 36.66,
+      "speed": 4.22,
+      "cadence": 0
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784079389000,
+      "altitude": 36.61,
+      "speed": 4.59,
+      "cadence": 63
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784079391000,
+      "altitude": 36.81,
+      "speed": 4.94,
+      "cadence": 70
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784079393000,
+      "altitude": 37.17,
+      "speed": 5.42,
+      "cadence": 74
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784079395000,
+      "altitude": 37.27,
+      "speed": 5.7,
+      "cadence": 82
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079397000,
+      "altitude": 37.41,
+      "speed": 5.91,
+      "cadence": 84
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079399000,
+      "altitude": 37.55,
+      "speed": 6.15,
+      "cadence": 87
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784079401000,
+      "altitude": 37.39,
+      "speed": 6.42,
+      "cadence": 79
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784079403000,
+      "altitude": 37.25,
+      "speed": 6.48,
+      "cadence": 48
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784079405000,
+      "altitude": 36.75,
+      "speed": 6.28,
+      "cadence": 34
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784079407000,
+      "altitude": 36.23,
+      "speed": 7.07,
+      "cadence": 87
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784079409000,
+      "altitude": 35.95,
+      "speed": 7.26,
+      "cadence": 91
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784079411000,
+      "altitude": 35.96,
+      "speed": 7.33,
+      "cadence": 94
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784079413000,
+      "altitude": 36.09,
+      "speed": 7.07,
+      "cadence": 51
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784079415000,
+      "altitude": 35.78,
+      "speed": 6.85,
+      "cadence": 95
+    },
+    {
+      "heartrate": 148,
+      "power": 0,
+      "time": 1784079417000,
+      "altitude": 35.06,
+      "speed": 7.48,
+      "cadence": 96
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784079419000,
+      "altitude": 34.09,
+      "speed": 7.19,
+      "cadence": 57
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784079421000,
+      "altitude": 33.5,
+      "speed": 6.95,
+      "cadence": 95
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784079422000,
+      "altitude": 33.24,
+      "speed": 7.35,
+      "cadence": 33
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784079423000,
+      "altitude": 33.04,
+      "speed": 7.25,
+      "cadence": 93
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079425000,
+      "altitude": 32.14,
+      "speed": 7.44,
+      "cadence": 96
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079427000,
+      "altitude": 31.3,
+      "speed": 7.66,
+      "cadence": 96
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079429000,
+      "altitude": 30.75,
+      "speed": 7.65,
+      "cadence": 97
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079431000,
+      "altitude": 30.65,
+      "speed": 7.65,
+      "cadence": 97
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784079432000,
+      "altitude": 30.72,
+      "speed": 7.55,
+      "cadence": 96
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784079434000,
+      "altitude": 30.78,
+      "speed": 7.39,
+      "cadence": 95
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784079435000,
+      "altitude": 30.87,
+      "speed": 7.41,
+      "cadence": 94
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784079437000,
+      "altitude": 31.34,
+      "speed": 7.3,
+      "cadence": 92
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784079439000,
+      "altitude": 32.07,
+      "speed": 7.06,
+      "cadence": 91
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784079441000,
+      "altitude": 32.94,
+      "speed": 7.11,
+      "cadence": 91
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784079443000,
+      "altitude": 33.8,
+      "speed": 7.09,
+      "cadence": 90
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784079445000,
+      "altitude": 34.36,
+      "speed": 7.06,
+      "cadence": 89
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784079447000,
+      "altitude": 34.44,
+      "speed": 6.89,
+      "cadence": 89
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784079449000,
+      "altitude": 34.43,
+      "speed": 7.05,
+      "cadence": 90
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784079451000,
+      "altitude": 34.1,
+      "speed": 5.94,
+      "cadence": 89
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784079453000,
+      "altitude": 33.77,
+      "speed": 3.99,
+      "cadence": 89
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784079456000,
+      "altitude": 33.76,
+      "speed": 1.68,
+      "cadence": 0
+    },
+    {
+      "heartrate": 161,
+      "power": 0,
+      "time": 1784079462000,
+      "altitude": 34.25,
+      "speed": 3.03,
+      "cadence": 33
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784079465000,
+      "altitude": 34.16,
+      "speed": 2.91,
+      "cadence": 28
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784079468000,
+      "altitude": 33.65,
+      "speed": 3.76,
+      "cadence": 53
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784079471000,
+      "altitude": 33.72,
+      "speed": 3.29,
+      "cadence": 22
+    },
+    {
+      "heartrate": 159,
+      "power": 0,
+      "time": 1784079474000,
+      "altitude": 34.49,
+      "speed": 2.62,
+      "cadence": 21
+    },
+    {
+      "heartrate": 160,
+      "power": 0,
+      "time": 1784079478000,
+      "altitude": 35.53,
+      "speed": 2.04,
+      "cadence": 54
+    },
+    {
+      "heartrate": 158,
+      "power": 0,
+      "time": 1784079481000,
+      "altitude": 36.68,
+      "speed": 3.99,
+      "cadence": 56
+    },
+    {
+      "heartrate": 157,
+      "power": 0,
+      "time": 1784079483000,
+      "altitude": 37.49,
+      "speed": 4.53,
+      "cadence": 65
+    },
+    {
+      "heartrate": 156,
+      "power": 0,
+      "time": 1784079485000,
+      "altitude": 38.03,
+      "speed": 4.62,
+      "cadence": 68
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784079487000,
+      "altitude": 38.5,
+      "speed": 5.57,
+      "cadence": 81
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784079489000,
+      "altitude": 38.94,
+      "speed": 5.79,
+      "cadence": 88
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784079491000,
+      "altitude": 39.09,
+      "speed": 5.97,
+      "cadence": 90
+    },
+    {
+      "heartrate": 154,
+      "power": 0,
+      "time": 1784079493000,
+      "altitude": 39.04,
+      "speed": 6.6,
+      "cadence": 91
+    },
+    {
+      "heartrate": 155,
+      "power": 0,
+      "time": 1784079495000,
+      "altitude": 38.76,
+      "speed": 6.38,
+      "cadence": 92
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784079497000,
+      "altitude": 38.64,
+      "speed": 6.35,
+      "cadence": 92
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784079499000,
+      "altitude": 38.81,
+      "speed": 6.34,
+      "cadence": 92
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784079501000,
+      "altitude": 39.18,
+      "speed": 6.6,
+      "cadence": 91
+    },
+    {
+      "heartrate": 153,
+      "power": 0,
+      "time": 1784079503000,
+      "altitude": 39.59,
+      "speed": 5.91,
+      "cadence": 86
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079505000,
+      "altitude": 39.68,
+      "speed": 3.53,
+      "cadence": 28
+    },
+    {
+      "heartrate": 152,
+      "power": 0,
+      "time": 1784079508000,
+      "altitude": 39.28,
+      "speed": 4.66,
+      "cadence": 61
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784079510000,
+      "altitude": 39,
+      "speed": 4.33,
+      "cadence": 66
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784079512000,
+      "altitude": 38.84,
+      "speed": 4.37,
+      "cadence": 66
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784079514000,
+      "altitude": 39.1,
+      "speed": 4.03,
+      "cadence": 28
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784079516000,
+      "altitude": 39.56,
+      "speed": 4.05,
+      "cadence": 67
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784079518000,
+      "altitude": 39.94,
+      "speed": 4.21,
+      "cadence": 68
+    },
+    {
+      "heartrate": 149,
+      "power": 0,
+      "time": 1784079521000,
+      "altitude": 39.73,
+      "speed": 3.55,
+      "cadence": 0
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784079526000,
+      "altitude": 39.55,
+      "speed": 2.62,
+      "cadence": 44
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784079529000,
+      "altitude": 41.31,
+      "speed": 3.14,
+      "cadence": 55
+    },
+    {
+      "heartrate": 151,
+      "power": 0,
+      "time": 1784079532000,
+      "altitude": 43.93,
+      "speed": 3.11,
+      "cadence": 56
+    },
+    {
+      "heartrate": 150,
+      "power": 0,
+      "time": 1784079536000,
+      "altitude": 47.06,
+      "speed": 1.52,
+      "cadence": 0
+    }
+  ],
+  "encoding_points": "kwisFq}gfUj@MFNBT?RBV?XBZ?RJFNANELEPGLQBU@U@[?W@S@[AWGQGQCSGOMKOAS@Q@ODOBSBS?O@O@SAMDQ@O@QBQ@Q@O?Q@QBQBQDS@S?SAU@SBU@U?S?Q@QAQAMCSGARDVBRDX@V@PA\\CRAT?V?VBVBT@VBXAX?V@X@X?V?XBV?V@VAVDVBT@X@V?X@TBV@V@X?T@R?V?T@TBT?V@T@TAXAR?T?X@Z@X?X@X@Z@X@Z?X@V@X@ZBX?Z@Z@Z@Z?VBZ@X?V?Z@Z?X@Z?Z@V?T?X@R?V@PAR@\\@VBV@X@X?X?X?T?T@T?X?b@@X?V@`@B\\@V?T@R@R@P@RBX?XAT?XDj@Fp@@b@Bd@@`@@b@@p@@\\@`@?^?^@`@@^@b@@`@Bb@?^@`@B^@\\?^A^?^@^@^@\\?\\?\\@^@p@Bl@?^@`@@^B^@`@@`@?p@@`@?^?\\Bl@@^@^B\\?^@`@@\\@\\B`@?\\?Z?\\@^B^?b@B`@A`@@b@@`@?^D`@@b@@b@@`@@`@?^@`@@`@Br@?^@^?\\@\\@`@@\\?^?^B^B^@^A^?`@?\\@^?Z@\\B`@@^A\\?^?^@\\@\\B\\?ZB`@@\\@^@Z@\\@\\Bl@?b@?d@@P@b@?b@?b@@b@@b@@^?`@@\\?\\@^B^@`@@`@?`@@`@?^@^@`@A^?\\@\\@^?`@@`@?`@@\\Bn@@^?^@\\@\\@^B\\@^@\\@Z?ZA\\@\\?Z?\\?Z@\\?Z@Z?VBXBT@R@RDVAV@VBV@X?^?^@^B^@b@?`@?`@@`@?`@@`@?`@@`@?^@^?`@@^@`@?`@?\\?`@@^@^B^?^@^?^B^@^@`@@`@?^@b@B`@?^@^?\\?Z@ZBVNRTHV@VAX?VCXAX?X?XCXCXAXEXCX?XCXAVAPCR?T?VEXETCV?V?TAV?XAV?V?X?VAVCXCXAXAX?XCX?TCXAVAVAVAVAV?XCVAVAVCXCVAXAVCXCXAXCXCXAXEVAVAVCVCVCVCVETAVAVETAVCT?VETCTAVCTCTARCTCTCV?TCPALAVCVATAVATCPCTAVAVC\\AN?P?NAN@N?NAP?P?PAPAN?NANAP@P?PAP?RAN?RAP?PAP?P?P?P?N?PAP?PAN?P?PAN?N?PAN?NANAP?N?PAN?P?NAPAN?N?N?NAP?NAN?P?NAN?PAN?NAN?N?N?PAL?NANAN@NAP?N?NAN?PAN?NAN?P?NAN@N@N?N@N@N@N@N?NBN@PBLBNBPDLBN@NBNBNBNDNBNDNDNBLDNDNDLHLFLFNDJFNFLDLFLFLFLHJFLFJHLHXNLHXPTRJLLHJHJJLJJHJJJJLLJJJJJHJLJJJLJLLLJNJLLNHNLNHNJLHNJPJNHPHPHPFNJPDNHPHLHLR\\LVHJLTLVNXPZPZNZHNN\\HLN^N\\HNFNHLPZN^HLP\\RZHLHLFLRXPXLLBPN\\FNHNLZHXHVHPLTJLFLJPLNPJXHTHV@V@RDHXFZFXFVFXHXHZDVFVFTHVFTDNFRDRDXFTJVLTJXLTLXHZD^@b@?^?^C`@E^Ab@APCRA^Ed@Cb@Cb@APAd@APAb@C^E`@?^A\\C`@C`@C^CTCR?RCVAVEVMLODQBM@Q@Q@U?S?W?U@W?U@W@W?O?S?OEOCO?OAM?S?ESDWJMNA"
+}
