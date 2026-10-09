@@ -67,11 +67,7 @@ npm run dev
 http://127.0.0.1:5173/
 ```
 
-在 Tampermonkey 中安装开发脚本，然后打开行者轨迹详情页。开发过程中保持 Vite 运行，修改源码后刷新页面即可测试。可以使用浏览器 DevTools：
-
-- Console：查看日志和运行错误；
-- Sources：调试 TypeScript 并设置断点；
-- Network：检查行者 API 请求和响应。
+在 Tampermonkey 中安装开发脚本，然后打开行者轨迹详情页。开发过程中保持 Vite 运行，修改源码后刷新页面即可测试。
 
 ## 检查与构建
 

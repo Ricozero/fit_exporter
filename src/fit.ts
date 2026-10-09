@@ -19,11 +19,23 @@ function degreesToSemicircles(degrees: number | undefined): number | undefined {
 function mapSport(sport: number): SportMapping {
   switch (sport) {
     case 1:
-      return { sport: "running", subSport: "generic" };
-    case 2:
       return { sport: "walking", subSport: "generic" };
+    case 2:
+      return { sport: "running", subSport: "generic" };
     case 3:
       return { sport: "cycling", subSport: "generic" };
+    case 4:
+      return { sport: "hiking", subSport: "generic" };
+    case 5:
+      return { sport: "swimming", subSport: "generic" };
+    case 6:
+      return { sport: "alpineSkiing", subSport: "generic" };
+    case 8:
+      return { sport: "training", subSport: "generic" };
+    case 11:
+      return { sport: "cycling", subSport: "indoorCycling" };
+    case 12:
+      return { sport: "cycling", subSport: "virtualActivity" };
     default:
       return { sport: "generic", subSport: "generic" };
   }
