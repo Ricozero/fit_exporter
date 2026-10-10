@@ -12,7 +12,8 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@garmin/fitsdk": "^21.208.0"
+    "@garmin/fitsdk": "^21.208.0",
+    "fflate": "^0.8.3"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

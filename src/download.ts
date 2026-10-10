@@ -1,23 +1,17 @@
-function safeFileName(value: string): string {
-  const printable = Array.from(value, (character) =>
-    character.charCodeAt(0) < 32 ? "_" : character,
-  ).join("");
-  const cleaned = printable
-    .replace(/[<>:"/\\|?*]/g, "_")
-    .replace(/\s+/g, " ")
-    .trim();
-
-  return cleaned || "activity";
-}
-
-export function downloadFit(bytes: Uint8Array, title: string, workoutId: number): void {
+export function downloadBytes(bytes: Uint8Array, fileName: string, type = "application/octet-stream"): void {
   const data = new Uint8Array(bytes.byteLength);
   data.set(bytes);
-  const blob = new Blob([data.buffer], { type: "application/octet-stream" });
+  const blob = new Blob([data.buffer], { type });
   const url = URL.createObjectURL(blob);
   const anchor = document.createElement("a");
   anchor.href = url;
-  anchor.download = `${safeFileName(title)}-${workoutId}.fit`;
+  anchor.download = fileName;
+  document.body.append(anchor);
   anchor.click();
-  URL.revokeObjectURL(url);
+  anchor.remove();
+  window.setTimeout(() => URL.revokeObjectURL(url), 60_000);
+}
+
+export function downloadFit(bytes: Uint8Array, workoutId: number): void {
+  downloadBytes(bytes, `${workoutId}.fit`);
 }

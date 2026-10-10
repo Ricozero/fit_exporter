@@ -8,6 +8,24 @@ export interface WorkoutDetailData {
   workout: WorkoutDetail;
 }
 
+export interface WorkoutFilters {
+  sport?: number;
+  year?: number;
+  month?: number;
+}
+
+export interface WorkoutListItem {
+  id: number;
+  title: string;
+  sport: number;
+}
+
+export interface WorkoutListData {
+  data: WorkoutListItem[];
+}
+
+export type ExportFormat = "gpx" | "fit";
+
 export interface WorkoutDetail {
   id: number;
   workout_id: number;

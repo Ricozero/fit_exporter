@@ -1,12 +1,43 @@
-import { fetchWorkoutDetail, fetchWorkoutStream } from "./api";
-import { downloadFit } from "./download";
+import { fetchWorkoutDetail, fetchWorkoutFile, fetchWorkoutStream } from "./api";
+import { downloadBytes, downloadFit } from "./download";
+import { FIT_ICON } from "./icons";
 import { encodeWorkoutFit } from "./fit";
 import { normalizeStream } from "./normalize";
+import type { ExportFormat } from "./types";
 
 const FIT_BUTTON_ID = "fit-exporter-single-button";
 const FIT_LABEL = "导出Fit";
 const GPX_LINK_SELECTOR = 'a[href*="/gpx/"]';
-const FIT_ICON = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAAAEnRFWHRleGlmOkV4aWZPZmZzZXQAMjZTG6JlAAAABGdBTUEAALGPC/xhBQAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAASKADAAQAAAABAAAASAAAAACQMUbvAAAAAmJLR0QA/4ePzL8AAAK9SURBVHja7ddPSJNxHMfx9+9xQ6fz3w5aUelmSVghpCURsUMXLwnWKToo2D8vCRIJCYV/Tt4ED4Z68BDdunSoUyJBq1uSjAh5pEOBhnPzb7bt+SXuh0OfjZ7HbdDB12mw3/P97PN7nh/jwZ5qZ7UTW/KwwXdJDIgWz4/ln1gmLA93c4NRXMAmD3ilr2W1wdm8eD9PKAHAiV8UH5v6JbMW4D0XfU4HLlBcXInWl8+GFzPdIjVeTFJv+ilxZmTb/GyGDbxOT6eY4DQa+2kcFTfLN8s+h40DB/jc4iH9eNghA+IEADECnATAzVURLZ9Z/nOgAK9XTHKfAgA2GZLd4pEKaCDGRZxAPtdoKPsQDpOGRho1jWKcZvV9iAEGnRESDH2ZQQYIqQnNYrym0dZN9hWK63KMYgAkX+nQA1Drim0k2uiFAL7LTHBGTVgVd+VrfcNqgzY5osbDFO3b44G4ABW5Qw/QzhQJxXKENusNFqgAYIWXdOlb7KgqylsDYF13767MZ5hb6gAu6pUWG6jdjdJLjxoPGMkGu/Qteuglqq5KwUEqd+gCRvV3kFSgxU0BoEcY8QXpRDJs4ySfKoK5dfaoKZERAFb00tTrLTdIvdjQhPpgab2iYZmBDeYGVXlanejDj4ekb/TrL1CElirJ18Ig50kKMS2fGcHv8X0NtseP0bpnPNTylF0OQSqP94wHD61iTKszbZHoo+kfWyQs71WT6DMF4Mdse4sg5TlIGuILZn7TY+pTl+mCNLwVYiH9iU03R8Myh6mBSYaPac4Dko9pbgJkrhtouQ4QBgmxXN2DJcIAcg4bHFg2v+W7zT1WGMpRAGhv4u9FdP53zgLmJKvYpGHTYcBhQPYC7J+DEB71j5QNIXODabJp2vSGUxYUFzhOdnyS3eHFfQGlS+KjOEIlrow3563sNoIRyaH/xF+j/td45CYa1AAAAABJRU5ErkJggg==";
+const boundDownloadLinks = new WeakSet<HTMLAnchorElement>();
+
+function bindNativeDownloads(workoutId: number): void {
+  for (const format of ["gpx", "fit"] as const) {
+    const links = document.querySelectorAll<HTMLAnchorElement>(`.info_btn_box a[href*="/${format}/"]`);
+    for (const link of links) {
+      if (boundDownloadLinks.has(link)) continue;
+      boundDownloadLinks.add(link);
+      link.addEventListener("click", (event) => {
+        event.preventDefault();
+        event.stopImmediatePropagation();
+        void downloadNativeFile(link, format, workoutId);
+      }, { capture: true });
+    }
+  }
+}
+
+async function downloadNativeFile(link: HTMLAnchorElement, format: ExportFormat, workoutId: number): Promise<void> {
+  if (link.dataset.exporting === "true") return;
+  link.dataset.exporting = "true";
+  try {
+    const bytes = await fetchWorkoutFile(link.href, format);
+    downloadBytes(bytes, `${workoutId}.${format}`);
+  } catch (error) {
+    console.error("[fit-exporter] 下载失败", error);
+    window.alert(error instanceof Error ? error.message : "下载失败");
+  } finally {
+    delete link.dataset.exporting;
+  }
+}
 
 async function exportWorkout(workoutId: number, item: HTMLElement, label: Element): Promise<void> {
   if (item.dataset.exporting === "true") {
@@ -25,7 +56,7 @@ async function exportWorkout(workoutId: number, item: HTMLElement, label: Elemen
     label.textContent = "生成中";
     const points = normalizeStream(stream);
     const fitBytes = encodeWorkoutFit(detail, points);
-    downloadFit(fitBytes, detail.title, workoutId);
+    downloadFit(fitBytes, workoutId);
     label.textContent = FIT_LABEL;
   } catch (error) {
     console.error("[fit-exporter] 导出失败", error);
@@ -39,6 +70,7 @@ async function exportWorkout(workoutId: number, item: HTMLElement, label: Elemen
 }
 
 function mountNextToGpxButton(workoutId: number): void {
+  bindNativeDownloads(workoutId);
   const existingItem = document.getElementById(FIT_BUTTON_ID);
   const nativeFitButton = Array.from(document.querySelectorAll<HTMLElement>(".info_btn_box")).find(
     (item) => item.id !== FIT_BUTTON_ID && item.textContent?.trim() === FIT_LABEL,
